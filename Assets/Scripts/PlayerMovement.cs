@@ -264,7 +264,7 @@ public class PlayerMovement : MonoBehaviour
             _isSwimming = false;
         }
 
-        if ((_ctc > 0 || _jumpCount > 0) && _jumpButtonUp)
+        if ((_ctc > 0 && _jumpCount > 0) && _jumpButtonUp)
         {
             if ((_isGrounded && _isSubmerged) || _isSubmerged)
             {
