@@ -475,7 +475,13 @@ public class PlayerMovement : MonoBehaviour
     {
         _rb.linearVelocity = Vector2.zero;
         transform.position = playerSpawn.transform.position;
-        pm.currentHealth = pm.maxHealth;
+        //pm.currentHealth = pm.maxHealth;
+    }
+
+    public void DefeatPlayer()
+    {
+        Respawn();
+        //respawn menu here
     }
 
     #endregion
