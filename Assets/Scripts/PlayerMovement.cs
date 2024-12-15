@@ -23,6 +23,7 @@ public class PlayerMovement : MonoBehaviour
     public InputAction playerMovement;
     public InputAction jumpInput;
     public InputAction dashInput;
+    public InputAction abilityInput;
 
     public GameObject playerSpawn;
     // public GameObject playerEnd; // add an prefab where the level will end & start ending cutscene
@@ -62,6 +63,8 @@ public class PlayerMovement : MonoBehaviour
     private bool _canSwim;
     private bool _isSwimming;
 
+    private float _abilityInput;
+
     private readonly float _gravityScale = 1f;
     private float _ctc; // coyote time counter
 
@@ -74,6 +77,7 @@ public class PlayerMovement : MonoBehaviour
         playerMovement.Enable();
         dashInput.Enable();
         jumpInput.Enable();
+        abilityInput.Enable();
     }
 
     private void OnDisable()
@@ -81,6 +85,7 @@ public class PlayerMovement : MonoBehaviour
         playerMovement.Disable();
         jumpInput.Disable();
         dashInput.Disable();
+        abilityInput.Disable();
     }
 
     private void Awake()
@@ -109,6 +114,7 @@ public class PlayerMovement : MonoBehaviour
             _moveInput = playerMovement.ReadValue<float>();
             _dashInput = dashInput.ReadValue<float>();
             _jumpInput = jumpInput.ReadValue<float>();
+            _abilityInput = abilityInput.ReadValue<float>();
         }
         else
         {
@@ -116,6 +122,7 @@ public class PlayerMovement : MonoBehaviour
             _moveInput = 0f;
             _dashInput = 0f;
             _jumpInput = 0f;
+            _abilityInput = 0f;
         }
 
         if (pm.isStarting)
@@ -209,6 +216,12 @@ public class PlayerMovement : MonoBehaviour
         _ctc -= Time.deltaTime;
 
         #endregion
+
+        if (_abilityInput > 0)
+        {
+            performAbility();
+        }
+        
 
     }
 
@@ -494,6 +507,15 @@ public class PlayerMovement : MonoBehaviour
     }
     
     #endregion
+
+    private void performAbility()
+    {
+        if (pm.currentCharacter == 0 && _isGrounded)
+        {
+            pm.canMove = false;
+            // call respawn here -> make clone?
+        }
+    }
     
     private bool myApproximation(float a, float b, float tolerance)
     {

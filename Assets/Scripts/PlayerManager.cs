@@ -72,12 +72,25 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
     [Header("Ladder")]
     public float climbSpeed = 10.0f;
     
+    [Header("Character Control")]
+    public characterManager cm;
+
+    public int currentCharacter;
+    
     #endregion
 
+    
+    
     private void Start()
     {
         currentHealth = maxHealth;
-        _timeElapsed = Time.time; 
+        _timeElapsed = Time.time;
+
+        moveSpeed = cm.charList[currentCharacter].getSpeed();
+        jumpCount = cm.charList[currentCharacter].getJumpCount();
+        jumpForce = cm.charList[currentCharacter].getJumpForce();
+        jumpCutMultiplier = cm.charList[currentCharacter].getJumpCut();
+        dashForce = cm.charList[currentCharacter].getDashForce();
     }
 
     private void Update()
