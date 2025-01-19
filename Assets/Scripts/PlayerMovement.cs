@@ -17,8 +17,8 @@ public class PlayerMovement : MonoBehaviour
 
     public PlayerManager pm;
 
-    private float _acceleration;
-    private float _moveSpeed;
+    public float _acceleration;
+    public float _moveSpeed;
 
     public InputAction playerMovement;
     public InputAction jumpInput;

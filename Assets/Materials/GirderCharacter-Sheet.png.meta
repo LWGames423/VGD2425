@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 272da06dd72b7415b8605b9ff28955f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5095306744237342658
+    second: GirderCharacter-Sheet_0
+  - first:
+      213: 6368917997098506736
+    second: GirderCharacter-Sheet_1
+  - first:
+      213: -6602570979747262004
+    second: GirderCharacter-Sheet_2
+  - first:
+      213: 3481273347702632656
+    second: GirderCharacter-Sheet_3
+  - first:
+      213: -5052376799007388214
+    second: GirderCharacter-Sheet_4
+  - first:
+      213: -2244655664833381209
+    second: GirderCharacter-Sheet_5
+  - first:
+      213: 6985604059576774942
+    second: GirderCharacter-Sheet_6
+  - first:
+      213: 1695320095108044261
+    second: GirderCharacter-Sheet_7
+  - first:
+      213: 8602686587563007011
+    second: GirderCharacter-Sheet_8
+  - first:
+      213: -7878902474382922406
+    second: GirderCharacter-Sheet_9
+  - first:
+      213: -7348823288181568843
+    second: GirderCharacter-Sheet_10
+  - first:
+      213: -6564363006295561824
+    second: GirderCharacter-Sheet_11
+  - first:
+      213: 5998471264346075235
+    second: GirderCharacter-Sheet_12
+  - first:
+      213: 490512155501164890
+    second: GirderCharacter-Sheet_13
+  - first:
+      213: -3337444926472223818
+    second: GirderCharacter-Sheet_14
+  - first:
+      213: 5924128767173876994
+    second: GirderCharacter-Sheet_15
+  - first:
+      213: 7485833213003508094
+    second: GirderCharacter-Sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf3befdc7a26b640800000000000000
+      internalID: 5095306744237342658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 197
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f916a4ac21f26850800000000000000
+      internalID: 6368917997098506736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 197
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc19cd30da4fe54a0800000000000000
+      internalID: -6602570979747262004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 197
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0b9d74aa7ff4030800000000000000
+      internalID: 3481273347702632656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 197
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd4db7e11a52e9b0800000000000000
+      internalID: -5052376799007388214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb986c09169d0e0800000000000000
+      internalID: -2244655664833381209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11b99081e9d1f060800000000000000
+      internalID: 6985604059576774942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 133
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e51f71f4acf68710800000000000000
+      internalID: 1695320095108044261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 133
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cd5b55fd1e26770800000000000000
+      internalID: 8602686587563007011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 133
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5da57a91f388a290800000000000000
+      internalID: -7878902474382922406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 69
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac1d6b72cb30a90800000000000000
+      internalID: -7348823288181568843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 69
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9a90110a2b6e4a0800000000000000
+      internalID: -6564363006295561824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cca4b72d9544c53a63a294a6339b5f
+      internalID: -1944329614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 69
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f9350324524ed184c49b8c3d93d95
+      internalID: 762347956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 69
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedcc0dafb8cc4881ade79148159a366
+      internalID: -1890108187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44fd5ba77b8c48fcb2b12957ee49913
+      internalID: 216039667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d11d2119a049779a9f98f816c2a88
+      internalID: 1934057622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d5fe1bd53ce848b2a0633dc33ee6fc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GirderCharacter-Sheet_0: 5095306744237342658
+      GirderCharacter-Sheet_1: 6368917997098506736
+      GirderCharacter-Sheet_10: -7348823288181568843
+      GirderCharacter-Sheet_11: -6564363006295561824
+      GirderCharacter-Sheet_12: -1944329614
+      GirderCharacter-Sheet_13: 762347956
+      GirderCharacter-Sheet_14: -1890108187
+      GirderCharacter-Sheet_15: 216039667
+      GirderCharacter-Sheet_16: 1934057622
+      GirderCharacter-Sheet_2: -6602570979747262004
+      GirderCharacter-Sheet_3: 3481273347702632656
+      GirderCharacter-Sheet_4: -5052376799007388214
+      GirderCharacter-Sheet_5: -2244655664833381209
+      GirderCharacter-Sheet_6: 6985604059576774942
+      GirderCharacter-Sheet_7: 1695320095108044261
+      GirderCharacter-Sheet_8: 8602686587563007011
+      GirderCharacter-Sheet_9: -7878902474382922406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
