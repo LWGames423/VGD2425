@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: cc7dff3884025c04d80057078ddca0bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7045280856004650572
+    second: TutorialTileset-Sheet-export_0
+  - first:
+      213: 2045336376768100128
+    second: TutorialTileset-Sheet-export_1
+  - first:
+      213: 3690744288353483328
+    second: TutorialTileset-Sheet-export_2
+  - first:
+      213: 8164935842182858628
+    second: TutorialTileset-Sheet-export_3
+  - first:
+      213: -5368876004112595282
+    second: TutorialTileset-Sheet-export_4
+  - first:
+      213: 7347247570178294566
+    second: TutorialTileset-Sheet-export_5
+  - first:
+      213: -4725888054524383067
+    second: TutorialTileset-Sheet-export_6
+  - first:
+      213: -8592858767166462910
+    second: TutorialTileset-Sheet-export_7
+  - first:
+      213: -4552875709581155730
+    second: TutorialTileset-Sheet-export_8
+  - first:
+      213: -3640496172721758206
+    second: TutorialTileset-Sheet-export_9
+  - first:
+      213: -479002907394214503
+    second: TutorialTileset-Sheet-export_10
+  - first:
+      213: -1312816117544080177
+    second: TutorialTileset-Sheet-export_11
+  - first:
+      213: -7916368313604143178
+    second: TutorialTileset-Sheet-export_12
+  - first:
+      213: 9140119913128002185
+    second: TutorialTileset-Sheet-export_13
+  - first:
+      213: 8463439115613410014
+    second: TutorialTileset-Sheet-export_14
+  - first:
+      213: 4427263917839151330
+    second: TutorialTileset-Sheet-export_15
+  - first:
+      213: -3802614990034040561
+    second: TutorialTileset-Sheet-export_16
+  - first:
+      213: 2945999575635560935
+    second: TutorialTileset-Sheet-export_17
+  - first:
+      213: -8658206807208948980
+    second: TutorialTileset-Sheet-export_18
+  - first:
+      213: 4877810001662652675
+    second: TutorialTileset-Sheet-export_19
+  - first:
+      213: -2399330187035047657
+    second: TutorialTileset-Sheet-export_20
+  - first:
+      213: 1694378962938225888
+    second: TutorialTileset-Sheet-export_21
+  - first:
+      213: 3085127381793164232
+    second: TutorialTileset-Sheet-export_22
+  - first:
+      213: -3109134441539105707
+    second: TutorialTileset-Sheet-export_23
+  - first:
+      213: 46191291290192924
+    second: TutorialTileset-Sheet-export_24
+  - first:
+      213: -4359016235110960938
+    second: TutorialTileset-Sheet-export_25
+  - first:
+      213: 4709950544669471781
+    second: TutorialTileset-Sheet-export_26
+  - first:
+      213: 4018280969027408361
+    second: TutorialTileset-Sheet-export_27
+  - first:
+      213: 401709756820259288
+    second: TutorialTileset-Sheet-export_28
+  - first:
+      213: 9206777572218154115
+    second: TutorialTileset-Sheet-export_29
+  - first:
+      213: 1598851464746556330
+    second: TutorialTileset-Sheet-export_30
+  - first:
+      213: -7185617517934210727
+    second: TutorialTileset-Sheet-export_31
+  - first:
+      213: 809781241833241101
+    second: TutorialTileset-Sheet-export_32
+  - first:
+      213: 8727094872477059801
+    second: TutorialTileset-Sheet-export_33
+  - first:
+      213: 8507844035834514497
+    second: TutorialTileset-Sheet-export_34
+  - first:
+      213: -6342382308404390822
+    second: TutorialTileset-Sheet-export_35
+  - first:
+      213: 2428750102672752701
+    second: TutorialTileset-Sheet-export_36
+  - first:
+      213: -6050757185650379361
+    second: TutorialTileset-Sheet-export_37
+  - first:
+      213: -4491090084140971121
+    second: TutorialTileset-Sheet-export_38
+  - first:
+      213: 2084183232198614714
+    second: TutorialTileset-Sheet-export_39
+  - first:
+      213: 2365925765848908876
+    second: TutorialTileset-Sheet-export_40
+  - first:
+      213: 7730922710231881718
+    second: TutorialTileset-Sheet-export_41
+  - first:
+      213: 5754807160729076756
+    second: TutorialTileset-Sheet-export_42
+  - first:
+      213: 8162118084334677955
+    second: TutorialTileset-Sheet-export_43
+  - first:
+      213: -5613637937687534265
+    second: TutorialTileset-Sheet-export_44
+  - first:
+      213: -2693862797967423608
+    second: TutorialTileset-Sheet-export_45
+  - first:
+      213: 3680749864958803097
+    second: TutorialTileset-Sheet-export_46
+  - first:
+      213: 5549522208371082998
+    second: TutorialTileset-Sheet-export_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b99bf293622a3e90800000000000000
+      internalID: -7045280856004650572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277277199e726c10800000000000000
+      internalID: 2045336376768100128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7c183068283330800000000000000
+      internalID: 3690744288353483328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234459dcbaa6f560800000000000000
+      internalID: 7347247570178294566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ffcd6ad54a6eb0800000000000000
+      internalID: -4725888054524383067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24421f96a7800c880800000000000000
+      internalID: -8592858767166462910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9957362c46d3a59f0800000000000000
+      internalID: -479002907394214503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcca06a52b0f7cde0800000000000000
+      internalID: -1312816117544080177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7877426f8632290800000000000000
+      internalID: -7916368313604143178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01002b7c4cf8a534ab7c31eb269a47dd
+      internalID: 8164935842182858628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb760560dcd234a4eb4782d34324591e
+      internalID: -5368876004112595282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa216cf1f8c05743a2941785cfdef5c
+      internalID: -4552875709581155730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7878dd4e096b5443ad4b90521676e49
+      internalID: -3640496172721758206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 354
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3568099c378a43ab16aa02ac523a6
+      internalID: 9140119913128002185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 354
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0574f5d3a3bf45aa27fe2c303250e
+      internalID: 8463439115613410014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 337
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b44882d8ebd2748b1722eb0e0ce0a3
+      internalID: 4427263917839151330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 352
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d52cb260fbaa4992551f7aaab4e69
+      internalID: -3802614990034040561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 337
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32edd809bce54469a63398e8373400
+      internalID: 2945999575635560935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887a0cd20a651e4caedd64ce97ea699
+      internalID: -8658206807208948980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1250bf9c02087fd49a48c1abc69ad73c
+      internalID: 4877810001662652675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80b195d3a68ca47abf832a0e918abe
+      internalID: -2399330187035047657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 322
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59d29134a77314194e967e354cdb6e
+      internalID: 1694378962938225888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 322
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ff7f9a41be3e4c9cfe6f616f91402
+      internalID: 3085127381793164232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 298
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbbfa8e136cc254aaaea45c222e1860
+      internalID: -3109134441539105707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 318
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164384fc4cb24f4abdc184d63cb978d
+      internalID: 46191291290192924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 318
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d602a318e585478a404e4034a9d7e
+      internalID: -4359016235110960938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 298
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd3c265c5d54e4cac93ddb802641aa
+      internalID: 4709950544669471781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 290
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919df4348151f142b4ee9d158f13675
+      internalID: 4018280969027408361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 290
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55717384ff55aa74eb77784ae0e590f9
+      internalID: 401709756820259288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47078e3166417ac489fc469b607fb37e
+      internalID: 9206777572218154115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbf20a97d91a3458313256c043a31a
+      internalID: 1598851464746556330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f53442e1ba5574a8f3b30c9e3f819e
+      internalID: -7185617517934210727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38deafb7e8c8c4d4595efd005785caeb
+      internalID: 809781241833241101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e556cea1d6f0be48b369a31c5767455
+      internalID: 8727094872477059801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dbb8e4c69277b49a63fca85d1e5866
+      internalID: 8507844035834514497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 258
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaaab0215d5cfe40addf67f7a843bb3
+      internalID: -6342382308404390822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 260
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799ad6ff33a0a440a86e5ed3e36ca14
+      internalID: 2428750102672752701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 260
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d27a3823c8774782740ba34072374
+      internalID: -6050757185650379361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 260
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b49d36dfb87d4e934d3119fdce6e6
+      internalID: -4491090084140971121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ba6f91a117164a9d3d034298282a5
+      internalID: 2084183232198614714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f06a8bb0b27d64c9082bcf30506df4
+      internalID: 2365925765848908876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a19f942baeaf4289f5cac42d27598
+      internalID: 7730922710231881718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96960b89c89635489e557ed745e23c2
+      internalID: 5754807160729076756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 228
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8546c727f01d4ea2021fd616964c8
+      internalID: 8162118084334677955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 229
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4393f3ddac2a3314499f541b807f72ef
+      internalID: -5613637937687534265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 230
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8110c00f7a620e843a95934731865457
+      internalID: -2693862797967423608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 229
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbf133186ef225439380505668863e3
+      internalID: 3680749864958803097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-export_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101989e4dc17f44c85fca346e062100
+      internalID: 5549522208371082998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c983b9813d9dc674881dcfe85b3e51da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TutorialTileset-Sheet-export_0: -7045280856004650572
+      TutorialTileset-Sheet-export_1: 2045336376768100128
+      TutorialTileset-Sheet-export_10: -479002907394214503
+      TutorialTileset-Sheet-export_11: -1312816117544080177
+      TutorialTileset-Sheet-export_12: -7916368313604143178
+      TutorialTileset-Sheet-export_13: 9140119913128002185
+      TutorialTileset-Sheet-export_14: 8463439115613410014
+      TutorialTileset-Sheet-export_15: 4427263917839151330
+      TutorialTileset-Sheet-export_16: -3802614990034040561
+      TutorialTileset-Sheet-export_17: 2945999575635560935
+      TutorialTileset-Sheet-export_18: -8658206807208948980
+      TutorialTileset-Sheet-export_19: 4877810001662652675
+      TutorialTileset-Sheet-export_2: 3690744288353483328
+      TutorialTileset-Sheet-export_20: -2399330187035047657
+      TutorialTileset-Sheet-export_21: 1694378962938225888
+      TutorialTileset-Sheet-export_22: 3085127381793164232
+      TutorialTileset-Sheet-export_23: -3109134441539105707
+      TutorialTileset-Sheet-export_24: 46191291290192924
+      TutorialTileset-Sheet-export_25: -4359016235110960938
+      TutorialTileset-Sheet-export_26: 4709950544669471781
+      TutorialTileset-Sheet-export_27: 4018280969027408361
+      TutorialTileset-Sheet-export_28: 401709756820259288
+      TutorialTileset-Sheet-export_29: 9206777572218154115
+      TutorialTileset-Sheet-export_3: 8164935842182858628
+      TutorialTileset-Sheet-export_30: 1598851464746556330
+      TutorialTileset-Sheet-export_31: -7185617517934210727
+      TutorialTileset-Sheet-export_32: 809781241833241101
+      TutorialTileset-Sheet-export_33: 8727094872477059801
+      TutorialTileset-Sheet-export_34: 8507844035834514497
+      TutorialTileset-Sheet-export_35: -6342382308404390822
+      TutorialTileset-Sheet-export_36: 2428750102672752701
+      TutorialTileset-Sheet-export_37: -6050757185650379361
+      TutorialTileset-Sheet-export_38: -4491090084140971121
+      TutorialTileset-Sheet-export_39: 2084183232198614714
+      TutorialTileset-Sheet-export_4: -5368876004112595282
+      TutorialTileset-Sheet-export_40: 2365925765848908876
+      TutorialTileset-Sheet-export_41: 7730922710231881718
+      TutorialTileset-Sheet-export_42: 5754807160729076756
+      TutorialTileset-Sheet-export_43: 8162118084334677955
+      TutorialTileset-Sheet-export_44: -5613637937687534265
+      TutorialTileset-Sheet-export_45: -2693862797967423608
+      TutorialTileset-Sheet-export_46: 3680749864958803097
+      TutorialTileset-Sheet-export_47: 5549522208371082998
+      TutorialTileset-Sheet-export_5: 7347247570178294566
+      TutorialTileset-Sheet-export_6: -4725888054524383067
+      TutorialTileset-Sheet-export_7: -8592858767166462910
+      TutorialTileset-Sheet-export_8: -4552875709581155730
+      TutorialTileset-Sheet-export_9: -3640496172721758206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

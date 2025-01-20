@@ -57,13 +57,6 @@ public class characterManager : MonoBehaviour
     {
         charList.Add(new Character("Metal", 4f, 1, 5.5f, 0.95f, 0f)); // 0
         charList.Add(new Character("Water", 7f, 1, 5, 0.95f, 0f)); // 1
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 2
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 3
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 4
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 5
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 6
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 7
-        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 8
     }
 
     

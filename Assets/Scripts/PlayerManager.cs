@@ -42,6 +42,8 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     public int jumpCount = 1;
 
+    public int jumpBuffer = 5;
+
     [Header("Dash")] 
     public float dashMult;
     public float dashForce;
@@ -133,10 +135,15 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
         }
     }
 
-    void RegenHealth()
+    public void RegenHealth()
     {
         currentHealth += Time.deltaTime * regenRate;
 
         currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
+    }
+
+    public void Respawn()
+    {
+        transform.position = pm.playerSpawn.transform.position;
     }
 }
