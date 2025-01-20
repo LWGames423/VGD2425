@@ -75,7 +75,7 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
     [Header("Character Control")]
     public characterManager cm;
 
-    public int currentCharacter;
+    public int currentCharacter = 0;
     
     #endregion
 
@@ -86,6 +86,8 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
         currentHealth = maxHealth;
         _timeElapsed = Time.time;
 
+        currentCharacter = 1;
+        
         moveSpeed = cm.charList[currentCharacter].getSpeed();
         jumpCount = cm.charList[currentCharacter].getJumpCount();
         jumpForce = cm.charList[currentCharacter].getJumpForce();
@@ -95,6 +97,14 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     private void Update()
     {
+        
+        // update vals whenever stuff changes
+        moveSpeed = cm.charList[currentCharacter].getSpeed();
+        jumpCount = cm.charList[currentCharacter].getJumpCount();
+        jumpForce = cm.charList[currentCharacter].getJumpForce();
+        jumpCutMultiplier = cm.charList[currentCharacter].getJumpCut();
+        dashForce = cm.charList[currentCharacter].getDashForce();
+        
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         
         if (Time.time - _timeElapsed > regenDelay)

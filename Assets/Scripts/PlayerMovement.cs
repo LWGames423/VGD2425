@@ -17,8 +17,8 @@ public class PlayerMovement : MonoBehaviour
 
     public PlayerManager pm;
 
-    public float _acceleration;
-    public float _moveSpeed;
+    private float _acceleration;
+    private float _moveSpeed;
 
     public InputAction playerMovement;
     public InputAction jumpInput;
@@ -37,9 +37,9 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D _rb;
     
     private bool _facingRight = true;
-    public bool _isGrounded;
+    private bool _isGrounded;
     
-    public bool _canJump;
+    private bool _canJump;
     private bool _isJumping;
 
     private int _jumpCount;
@@ -236,12 +236,12 @@ public class PlayerMovement : MonoBehaviour
         if (!_isGrounded)
         {
             pm.acceleration = _acceleration/2.0f;
-            pm.moveSpeed = _moveSpeed/1.5f;
+            _moveSpeed = pm.moveSpeed/1.5f;
         }
         else
         {
             pm.acceleration = _acceleration;
-            pm.moveSpeed = _moveSpeed;
+            _moveSpeed = pm.moveSpeed;
         }
         
         if (_isGrounded && _jumpInput < 0.01 && !_isSubmerged)
@@ -510,7 +510,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void performAbility()
     {
-        if (pm.currentCharacter == 0 && _isGrounded)
+        if (pm.currentCharacter == 0)
         {
             pm.canMove = false;
             // call respawn here -> make clone?

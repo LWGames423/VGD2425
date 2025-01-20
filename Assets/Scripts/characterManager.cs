@@ -10,14 +10,14 @@ public class characterManager : MonoBehaviour
     public PlayerManager pm;
     public struct Character{
         private string _name;
-        private int _moveSpeed; 
+        private float _moveSpeed; 
         private int _jumpCount;
         private float _jumpForce;
         private float _jumpCut;
         private float _dashForce;
         
 
-        public Character(string name, int moveSpeed, int jumpCount, float jumpForce, float jumpCut, float dashForce)
+        public Character(string name, float moveSpeed, int jumpCount, float jumpForce, float jumpCut, float dashForce)
         {
             _name = name;
             _moveSpeed = moveSpeed;
@@ -27,7 +27,7 @@ public class characterManager : MonoBehaviour
             _dashForce = dashForce;
         }
 
-        public int getSpeed()
+        public float getSpeed()
         {
             return _moveSpeed;
         }
@@ -55,8 +55,15 @@ public class characterManager : MonoBehaviour
 
     private void Start()
     {
-        
-        charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 0
+        charList.Add(new Character("Metal", 4f, 1, 5.5f, 0.95f, 0f)); // 0
+        charList.Add(new Character("Water", 7f, 1, 5, 0.95f, 0f)); // 1
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 2
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 3
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 4
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 5
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 6
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 7
+        // charList.Add(new Character("Metal", 7, 1, 5, 0.95f, 0f)); // 8
     }
 
     
