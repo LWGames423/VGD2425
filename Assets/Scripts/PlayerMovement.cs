@@ -63,8 +63,6 @@ public class PlayerMovement : MonoBehaviour
     private bool _canSwim;
     private bool _isSwimming;
 
-    private float _abilityInput;
-
     private readonly float _gravityScale = 1f;
     private float _ctc; // coyote time counter
 
@@ -114,7 +112,6 @@ public class PlayerMovement : MonoBehaviour
             _moveInput = playerMovement.ReadValue<float>();
             _dashInput = dashInput.ReadValue<float>();
             _jumpInput = jumpInput.ReadValue<float>();
-            _abilityInput = abilityInput.ReadValue<float>();
         }
         else
         {
@@ -122,7 +119,6 @@ public class PlayerMovement : MonoBehaviour
             _moveInput = 0f;
             _dashInput = 0f;
             _jumpInput = 0f;
-            _abilityInput = 0f;
         }
 
         if (pm.isStarting)
@@ -216,13 +212,6 @@ public class PlayerMovement : MonoBehaviour
         _ctc -= Time.deltaTime;
 
         #endregion
-
-        if (_abilityInput > 0)
-        {
-            performAbility();
-        }
-        
-
     }
 
     private void FixedUpdate()
@@ -508,14 +497,6 @@ public class PlayerMovement : MonoBehaviour
     
     #endregion
 
-    private void performAbility()
-    {
-        if (pm.currentCharacter == 0)
-        {
-            pm.canMove = false;
-            // call respawn here -> make clone?
-        }
-    }
     
     private bool myApproximation(float a, float b, float tolerance)
     {

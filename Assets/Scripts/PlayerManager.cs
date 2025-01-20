@@ -79,6 +79,8 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     public int currentCharacter = 0;
     
+    public Abilities abilities;
+    
     #endregion
 
     
@@ -88,7 +90,7 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
         currentHealth = maxHealth;
         _timeElapsed = Time.time;
 
-        currentCharacter = 1;
+        currentCharacter = 0;
         
         moveSpeed = cm.charList[currentCharacter].getSpeed();
         jumpCount = cm.charList[currentCharacter].getJumpCount();
