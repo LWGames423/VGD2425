@@ -7,7 +7,7 @@ public class PressButton : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player") || collision.CompareTag("PlayerPlatform"))
         {
             door.GetComponent<Animator>().SetBool("Open", true);
             door.GetComponent<BoxCollider2D>().enabled = false;
@@ -18,7 +18,7 @@ public class PressButton : MonoBehaviour
     {
         if (holdButton)
         {
-            if (collision.CompareTag("Player"))
+            if (collision.CompareTag("Player") || collision.CompareTag("PlayerPlatform"))
             {
                 door.GetComponent<Animator>().SetBool("Open", false);
                 door.GetComponent<BoxCollider2D>().enabled = true;
