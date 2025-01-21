@@ -90,8 +90,6 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
         currentHealth = maxHealth;
         _timeElapsed = Time.time;
 
-        currentCharacter = 0;
-        
         moveSpeed = cm.charList[currentCharacter].getSpeed();
         jumpCount = cm.charList[currentCharacter].getJumpCount();
         jumpForce = cm.charList[currentCharacter].getJumpForce();
