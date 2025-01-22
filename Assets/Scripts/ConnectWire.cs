@@ -3,26 +3,46 @@ using UnityEngine;
 public class ConnectWire : MonoBehaviour
 {
     public DetectWire wireStart, wireEnd;
-    public GameObject door;
-    public GameObject flame;
+    public bool connected = false;
+    public PowerManager pm;
+    public GameObject end;
+
+    private bool triggered = false;
+
+    private void Awake()
+    {
+        if (!wireStart && !wireEnd)
+        {
+            end.GetComponent<PowerManager>().power += pm.power;
+        }
+    }
 
     private void Update()
     {
-        if (wireStart.connected && wireEnd.connected)
+        if (wireStart && wireEnd)
         {
-            if (door != null)
+            connected = wireStart.connected && wireEnd.connected;
+            if (connected)
             {
-                door.GetComponent<Animator>().SetBool("Open", true);
-                door.GetComponent<BoxCollider2D>().enabled = false;
+                if (end != null && !triggered && pm.power > 0)
+                {
+                    end.GetComponent<PowerManager>().power += pm.power;
+                    triggered = true;
+                }
+            }
+            else
+            {
+                if (end != null && triggered && pm.power > 0)
+                {
+                    end.GetComponent<PowerManager>().power -= pm.power;
+                    triggered = false;
+                }
             }
         }
+
         else
         {
-            if (door != null)
-            {
-                door.GetComponent<Animator>().SetBool("Open", false);
-                door.GetComponent<BoxCollider2D>().enabled = true;
-            }
+            end.GetComponent<PowerManager>().power = pm.power;
         }
     }
 }

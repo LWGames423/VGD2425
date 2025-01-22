@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5215984363225374649}
   - component: {fileID: 1262612864961631604}
   - component: {fileID: 6299622777525484361}
+  - component: {fileID: 3621365677155772243}
   m_Layer: 6
   m_Name: Green Button
   m_TagString: Untagged
@@ -149,7 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   holdButton: 0
-  door: {fileID: 0}
+  wire: {fileID: 0}
 --- !u!61 &6299622777525484361
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -196,3 +197,16 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.39, y: 0.53125}
   m_EdgeRadius: 0
+--- !u!114 &3621365677155772243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3832597414229778525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68936c37968325e40ae7199441a1c10b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  power: 1

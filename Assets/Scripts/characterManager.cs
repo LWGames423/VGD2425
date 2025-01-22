@@ -55,8 +55,8 @@ public class characterManager : MonoBehaviour
 
     private void Start()
     {
-        charList.Add(new Character("Metal", 7f, 1, 6f, 0.95f, 0f)); // 0
-        charList.Add(new Character("Water", 12f, 1, 8, 0.95f, 0f)); // 1
+        charList.Add(new Character("Metal", 9f, 1, 9.5f, 0.95f, 0f)); // 0
+        charList.Add(new Character("Water", 12f, 1, 12f, 0.95f, 0f)); // 1
     }
 
     

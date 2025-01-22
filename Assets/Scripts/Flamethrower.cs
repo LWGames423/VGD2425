@@ -6,6 +6,7 @@ public class Flamethrower : MonoBehaviour
     private float interval = 0, timer;
     private bool status = false, blocked = false;
     public Animator anim;
+    public PowerManager pm;
 
     private void Start()
     {
@@ -15,17 +16,36 @@ public class Flamethrower : MonoBehaviour
     private void Update()
     {
         timer += Time.deltaTime;
-        if (status && interval + offInterval <= timer)
+        if (pm.power == -1)
         {
-            interval = timer + offInterval;
-            anim.SetBool("Ignite", false);
-            status = false;
+            if (status && interval + offInterval <= timer)
+            {
+                interval = timer + offInterval;
+                anim.SetBool("Ignite", false);
+                status = false;
+            }
+            else if (!status && interval + onInterval <= timer)
+            {
+                interval = timer + onInterval;
+                anim.SetBool("Ignite", true);
+                status = true;
+            }
         }
-        else if (!status && interval + onInterval <= timer)
+        else
         {
-            interval = timer + onInterval;
-            anim.SetBool("Ignite", true);
-            status = true;
+            if (pm.power > 0)
+            {
+                interval = timer + onInterval;
+                anim.SetBool("Ignite", true);
+                status = true;
+                
+            }
+            else
+            {
+                interval = timer + offInterval;
+                anim.SetBool("Ignite", false);
+                status = false;
+            }
         }
     }
 }
