@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6012746a051efa0a5b48a841f6faeabd, type: 3}
+  m_Name: Water Carousel Entry
+  m_EditorClassIdentifier: 
+  <EntryGraphic>k__BackingField: {fileID: 5095306744237342658, guid: 272da06dd72b7415b8605b9ff28955f8, type: 3}
+  <CharName>k__BackingField: Water
+  <Description>k__BackingField: A rapid blob of water who grows trees, rusts metal,
+    and vaporizes into steam

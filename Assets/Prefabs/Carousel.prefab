@@ -124,7 +124,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000045776367, y: 0}
+  m_AnchoredPosition: {x: 0.000015258789, y: 0}
   m_SizeDelta: {x: 0, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &3056134778069261039
@@ -178,7 +178,7 @@ GameObject:
   - component: {fileID: 4035382039523493652}
   - component: {fileID: 6336840534379037935}
   m_Layer: 5
-  m_Name: big dick femboy
+  m_Name: Carousel Text Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -867,7 +867,7 @@ MonoBehaviour:
   m_fontSize: 85
   m_fontSizeBase: 85
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 85
   m_fontStyle: 0
@@ -920,7 +920,7 @@ GameObject:
   - component: {fileID: 468725371982975691}
   m_Layer: 5
   m_Name: Carousel
-  m_TagString: Untagged
+  m_TagString: Carousel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1008,11 +1008,15 @@ MonoBehaviour:
       m_Action: Carousel Set
       m_Flags: 0
     m_Flags: 0
-  entries:
+  masterList:
   - {fileID: 11400000, guid: b9d2a10df4247a94f8b0868ba6e742ea, type: 2}
   - {fileID: 11400000, guid: 1c37b9c5891f82aa9b1a72568b6afa3c, type: 2}
+  - {fileID: 11400000, guid: 528156bb9b88e5b46865901f1f9e2a40, type: 2}
   - {fileID: 11400000, guid: 00a2ea0b4e9f7e52ba548cfb05111731, type: 2}
+  - {fileID: 11400000, guid: 103551b5544748747a59e7a39e37fd2c, type: 2}
   - {fileID: 11400000, guid: d6f7a2ea9e5556c0c874b2dd9466e8f4, type: 2}
+  entries: []
+  firstLevelIndex: 0
   scrollRect: {fileID: 8391161310410377433}
   contentBoxHorizontal: {fileID: 4429952575221624286}
   carouselEntryPrefab: {fileID: 6405064338251575901, guid: c9ed438a61ae9b0c5bd7bc281c7d83ee, type: 3}
