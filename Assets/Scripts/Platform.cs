@@ -5,12 +5,12 @@ public class Platform : MonoBehaviour
     public Transform start, end;
     public PowerManager startPower, endPower;
     public float speed;
-    int direction = 1;
+    public int direction = 1, power;
 
     private void Update()
     {
         Vector2 target;
-        int power = startPower.power + endPower.power;
+        power = startPower.power + endPower.power;
 
         switch (direction)
         {
@@ -28,6 +28,11 @@ public class Platform : MonoBehaviour
         if (power >= 2)
         {
             transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
+            GetComponent<CapsuleCollider2D>().enabled = true;
+        }
+        else
+        {
+            GetComponent<CapsuleCollider2D>().enabled = false;
         }
 
         if (Vector2.Distance(transform.position, target) < 0.1f)
@@ -49,7 +54,7 @@ public class Platform : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player") && power >= 2)
         {
             collision.transform.parent = transform;
         }
