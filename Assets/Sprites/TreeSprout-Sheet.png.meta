@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: 8ab1c2fb4c2bba545b73d60073d8c5f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7441505955344224254
+    second: TreeSprout-Sheet_0
+  - first:
+      213: -4870950339303678071
+    second: TreeSprout-Sheet_1
+  - first:
+      213: 8040531227419357579
+    second: TreeSprout-Sheet_2
+  - first:
+      213: 2693302559909302063
+    second: TreeSprout-Sheet_3
+  - first:
+      213: 9161258689609100264
+    second: TreeSprout-Sheet_4
+  - first:
+      213: 656069420559428763
+    second: TreeSprout-Sheet_5
+  - first:
+      213: 7734737282136526924
+    second: TreeSprout-Sheet_6
+  - first:
+      213: -9170457365486448590
+    second: TreeSprout-Sheet_7
+  - first:
+      213: -7858828454755660236
+    second: TreeSprout-Sheet_8
+  - first:
+      213: -3322482536601351167
+    second: TreeSprout-Sheet_9
+  - first:
+      213: 4260711970811767294
+    second: TreeSprout-Sheet_10
+  - first:
+      213: -801016222232321280
+    second: TreeSprout-Sheet_11
+  - first:
+      213: -1933357710739841558
+    second: TreeSprout-Sheet_12
+  - first:
+      213: 8539876630057305875
+    second: TreeSprout-Sheet_13
+  - first:
+      213: 6718060802496400663
+    second: TreeSprout-Sheet_14
+  - first:
+      213: -7604455711193430934
+    second: TreeSprout-Sheet_15
+  - first:
+      213: 7270260478622059631
+    second: TreeSprout-Sheet_16
+  - first:
+      213: -3177585949814316041
+    second: TreeSprout-Sheet_17
+  - first:
+      213: -1459880324803666561
+    second: TreeSprout-Sheet_18
+  - first:
+      213: 7199556369987055200
+    second: TreeSprout-Sheet_19
+  - first:
+      213: -3765811806027774650
+    second: TreeSprout-Sheet_20
+  - first:
+      213: 5654647962065996172
+    second: TreeSprout-Sheet_21
+  - first:
+      213: 6668562423975309783
+    second: TreeSprout-Sheet_22
+  - first:
+      213: -8021205610512931443
+    second: TreeSprout-Sheet_23
+  - first:
+      213: -1489614965794317826
+    second: TreeSprout-Sheet_24
+  - first:
+      213: -2949794641093455401
+    second: TreeSprout-Sheet_25
+  - first:
+      213: 5755008710556215561
+    second: TreeSprout-Sheet_26
+  - first:
+      213: -2034556058823257440
+    second: TreeSprout-Sheet_27
+  - first:
+      213: 6628326101112810145
+    second: TreeSprout-Sheet_28
+  - first:
+      213: -5846880107142785422
+    second: TreeSprout-Sheet_29
+  - first:
+      213: 2309912797506860266
+    second: TreeSprout-Sheet_30
+  - first:
+      213: 2882722260993035870
+    second: TreeSprout-Sheet_31
+  - first:
+      213: -7065117125196350875
+    second: TreeSprout-Sheet_32
+  - first:
+      213: 7728130249375711504
+    second: TreeSprout-Sheet_33
+  - first:
+      213: -4036434879353097683
+    second: TreeSprout-Sheet_34
+  - first:
+      213: 5487700688708682029
+    second: TreeSprout-Sheet_35
+  - first:
+      213: -703006582630701743
+    second: TreeSprout-Sheet_36
+  - first:
+      213: -5763280847348882737
+    second: TreeSprout-Sheet_37
+  - first:
+      213: -7774240315220989670
+    second: TreeSprout-Sheet_38
+  - first:
+      213: 2140140233896309880
+    second: TreeSprout-Sheet_39
+  - first:
+      213: -3407491031788979150
+    second: TreeSprout-Sheet_40
+  - first:
+      213: 7792922917404421289
+    second: TreeSprout-Sheet_41
+  - first:
+      213: 5396103804191111346
+    second: TreeSprout-Sheet_42
+  - first:
+      213: -1204180083640659173
+    second: TreeSprout-Sheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff0f365d3a854760800000000000000
+      internalID: 7441505955344224254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5c3b4978e66cb0800000000000000
+      internalID: -4870950339303678071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8134cffc84b59f60800000000000000
+      internalID: 8040531227419357579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f4b049868806520800000000000000
+      internalID: 2693302559909302063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb6c916d34532f70800000000000000
+      internalID: 9161258689609100264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ce07879a3da1900800000000000000
+      internalID: 656069420559428763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 277
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40d7b4e39e475b60800000000000000
+      internalID: 7734737282136526924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d05efc9dfbb080800000000000000
+      internalID: -9170457365486448590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 209
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e8e838825dfe290800000000000000
+      internalID: -7858828454755660236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c00797cbb24e1d0800000000000000
+      internalID: -3322482536601351167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 209
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef96d7696f6112b30800000000000000
+      internalID: 4260711970811767294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00364866df732e4f0800000000000000
+      internalID: -801016222232321280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd69bc7655b25e0800000000000000
+      internalID: -1933357710739841558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c9308c8cb38670800000000000000
+      internalID: 8539876630057305875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0640c4b85b3d50800000000000000
+      internalID: 6718060802496400663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64002022db877690800000000000000
+      internalID: -7604455711193430934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 209
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c44d4c26725e460800000000000000
+      internalID: 7270260478622059631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 209
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3ab0a0a62f6e3d0800000000000000
+      internalID: -3177585949814316041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 209
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dde7154967dbbe0800000000000000
+      internalID: -1459880324803666561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 142
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eaa75af56f9e360800000000000000
+      internalID: 7199556369987055200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 142
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6450eb25d162dbbc0800000000000000
+      internalID: -3765811806027774650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8984d4ac58597e40800000000000000
+      internalID: 5654647962065996172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f09b613e7b8c50800000000000000
+      internalID: 6668562423975309783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85a103def3fea090800000000000000
+      internalID: -8021205610512931443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef959b7b413d35be0800000000000000
+      internalID: -1489614965794317826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1164117693017d0800000000000000
+      internalID: -2949794641093455401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096bff4ee5eddf40800000000000000
+      internalID: 5755008710556215561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a298364b0ec3c3e0800000000000000
+      internalID: -2034556058823257440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa6748787b8cfb50800000000000000
+      internalID: 6628326101112810145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d4794585bbdea0800000000000000
+      internalID: -5846880107142785422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4768d63757e0020800000000000000
+      internalID: 2309912797506860266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec9908f9c710820800000000000000
+      internalID: 2882722260993035870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36206895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a74204869a3fd90800000000000000
+      internalID: -7065117125196350875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0118df33485df3b60800000000000000
+      internalID: 7728130249375711504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227929fcd3bbf7c0800000000000000
+      internalID: -4036434879353097683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36206895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21c52883ba382c40800000000000000
+      internalID: 5487700688708682029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155298fdc3b6e36f0800000000000000
+      internalID: -703006582630701743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc225f0ca96b400b0800000000000000
+      internalID: -5763280847348882737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a196bbc7f995c1490800000000000000
+      internalID: -7774240315220989670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 5
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87439ea243e43bd10800000000000000
+      internalID: 2140140233896309880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c73e2d5f826b0d0800000000000000
+      internalID: -3407491031788979150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac24edca16062c60800000000000000
+      internalID: 7792922917404421289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8f1f3f1dfc2ea40800000000000000
+      internalID: 5396103804191111346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139ffc0894e94fe0800000000000000
+      internalID: -1204180083640659173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a4852640bce14f861d6f54e2c5b87
+      internalID: 1231944337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeSprout-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f99f6e3a04214bb9b4703ccb9c98e
+      internalID: -1799107237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9887a851bf85224bbcf15eb13edc020
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TreeSprout-Sheet_0: 7441505955344224254
+      TreeSprout-Sheet_1: -4870950339303678071
+      TreeSprout-Sheet_10: 4260711970811767294
+      TreeSprout-Sheet_11: -801016222232321280
+      TreeSprout-Sheet_12: -1933357710739841558
+      TreeSprout-Sheet_13: 8539876630057305875
+      TreeSprout-Sheet_14: 6718060802496400663
+      TreeSprout-Sheet_15: -7604455711193430934
+      TreeSprout-Sheet_16: 7270260478622059631
+      TreeSprout-Sheet_17: -3177585949814316041
+      TreeSprout-Sheet_18: -1459880324803666561
+      TreeSprout-Sheet_19: 7199556369987055200
+      TreeSprout-Sheet_2: 8040531227419357579
+      TreeSprout-Sheet_20: -3765811806027774650
+      TreeSprout-Sheet_21: 5654647962065996172
+      TreeSprout-Sheet_22: 6668562423975309783
+      TreeSprout-Sheet_23: -8021205610512931443
+      TreeSprout-Sheet_24: -1489614965794317826
+      TreeSprout-Sheet_25: -2949794641093455401
+      TreeSprout-Sheet_26: 5755008710556215561
+      TreeSprout-Sheet_27: -2034556058823257440
+      TreeSprout-Sheet_28: 6628326101112810145
+      TreeSprout-Sheet_29: -5846880107142785422
+      TreeSprout-Sheet_3: 2693302559909302063
+      TreeSprout-Sheet_30: 2309912797506860266
+      TreeSprout-Sheet_31: 2882722260993035870
+      TreeSprout-Sheet_32: -7065117125196350875
+      TreeSprout-Sheet_33: 7728130249375711504
+      TreeSprout-Sheet_34: -4036434879353097683
+      TreeSprout-Sheet_35: 5487700688708682029
+      TreeSprout-Sheet_36: -703006582630701743
+      TreeSprout-Sheet_37: -5763280847348882737
+      TreeSprout-Sheet_38: -7774240315220989670
+      TreeSprout-Sheet_39: 2140140233896309880
+      TreeSprout-Sheet_4: 9161258689609100264
+      TreeSprout-Sheet_40: -3407491031788979150
+      TreeSprout-Sheet_41: 7792922917404421289
+      TreeSprout-Sheet_42: 5396103804191111346
+      TreeSprout-Sheet_43: -1204180083640659173
+      TreeSprout-Sheet_44: 1231944337
+      TreeSprout-Sheet_45: -1799107237
+      TreeSprout-Sheet_5: 656069420559428763
+      TreeSprout-Sheet_6: 7734737282136526924
+      TreeSprout-Sheet_7: -9170457365486448590
+      TreeSprout-Sheet_8: -7858828454755660236
+      TreeSprout-Sheet_9: -3322482536601351167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
