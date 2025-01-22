@@ -119,6 +119,7 @@ public class Carousel : MonoBehaviour
 
     private void CopyImagesForEntries()
     {
+        _imagesForEntries = new();
         foreach (var entry in entries)
         {
             Image carouselEntry = Instantiate(carouselEntryPrefab, contentBoxHorizontal);
