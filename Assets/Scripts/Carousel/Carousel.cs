@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System.Collections;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class Carousel : MonoBehaviour
 {
@@ -14,8 +15,10 @@ public class Carousel : MonoBehaviour
     private float _actionInput;
     private float _setInput;
 
-    [Header("Parts Setup")] [SerializeField]
-    private List<CarouselEntry> entries = new List<CarouselEntry>();
+    [Header("Parts Setup")]
+    public List<CarouselEntry> masterList = new List<CarouselEntry>();
+    public List<CarouselEntry> entries = new List<CarouselEntry>();
+    public int firstLevelIndex;
 
     [Space] [SerializeField] private ScrollRect scrollRect;
 
@@ -55,13 +58,8 @@ public class Carousel : MonoBehaviour
 
     private void Start()
     {
-        foreach (var entry in entries)
-        {
-            Image carouselEntry = Instantiate(carouselEntryPrefab, contentBoxHorizontal);
-            carouselEntry.sprite = entry.EntryGraphic;
-            _imagesForEntries.Add(carouselEntry);
-        }
-
+        entries = CreateEntriesList();
+        CopyImagesForEntries();
         var headline = entries[0].CharName;
         var description = entries[0].Description;
         textBoxController.SetTextWithoutFade(headline, description);
@@ -69,9 +67,16 @@ public class Carousel : MonoBehaviour
 
     private void Update()
     {
-        _actionInput = carouselAction.ReadValue<float>();
+        if (entries.Count <= 1)
+        {
+            _actionInput = 0;
+        }
+        else
+        {
+            _actionInput = carouselAction.ReadValue<float>();
+        }
         _setInput = carouselSet.ReadValue<float>();
-        if(_actionInput == 0) return;
+        if (_actionInput == 0) return;
         if (_actionInput > 0 && carouselAction.WasPressedThisFrame())
         {
             ScrollToNext();
@@ -80,6 +85,45 @@ public class Carousel : MonoBehaviour
         if (_actionInput < 0 && carouselAction.WasPressedThisFrame())
         {
             ScrollToPrevious();
+        }
+    }
+
+    private List<CarouselEntry> CreateEntriesList()
+    {
+        List<CarouselEntry> newEntries = new();
+        int currentLevel = (SceneManager.GetActiveScene().buildIndex - firstLevelIndex) + 1;
+        switch (currentLevel)
+        {
+            case 1:
+                newEntries.Add(masterList[0]);
+                break;
+            case 2:
+            case 3:
+                for (int i = 0; i < 2*(currentLevel-1)+1; i++)
+                {
+                    newEntries.Add(masterList[i]);
+                }
+                break;
+            default:
+                newEntries = masterList;
+                break;
+        }
+        return newEntries;
+    }
+
+    public void AddEntries(CarouselEntry newEntry)
+    {
+        entries.Add(newEntry);
+        CopyImagesForEntries();
+    }
+
+    private void CopyImagesForEntries()
+    {
+        foreach (var entry in entries)
+        {
+            Image carouselEntry = Instantiate(carouselEntryPrefab, contentBoxHorizontal);
+            carouselEntry.sprite = entry.EntryGraphic;
+            _imagesForEntries.Add(carouselEntry);
         }
     }
 
