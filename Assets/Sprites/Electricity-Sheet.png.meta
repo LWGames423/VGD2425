@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 8af7d76aa40a4a84297dae5ae1ee5224
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1825493143662583293
+    second: Electricity-Sheet_0
+  - first:
+      213: -934951526350050692
+    second: Electricity-Sheet_1
+  - first:
+      213: 5736607304081239810
+    second: Electricity-Sheet_2
+  - first:
+      213: -1295561058758215624
+    second: Electricity-Sheet_3
+  - first:
+      213: 5441675136698145445
+    second: Electricity-Sheet_4
+  - first:
+      213: -3873894930766357505
+    second: Electricity-Sheet_5
+  - first:
+      213: 5671435383091085578
+    second: Electricity-Sheet_6
+  - first:
+      213: -4017420271949693716
+    second: Electricity-Sheet_7
+  - first:
+      213: 4040466593044572511
+    second: Electricity-Sheet_8
+  - first:
+      213: 1458887558440619865
+    second: Electricity-Sheet_9
+  - first:
+      213: -4279937757315551965
+    second: Electricity-Sheet_10
+  - first:
+      213: -2354474951826459658
+    second: Electricity-Sheet_11
+  - first:
+      213: -5085105458744254818
+    second: Electricity-Sheet_12
+  - first:
+      213: 2271224441957139234
+    second: Electricity-Sheet_13
+  - first:
+      213: -4192743187259048981
+    second: Electricity-Sheet_14
+  - first:
+      213: -2785257870998400369
+    second: Electricity-Sheet_15
+  - first:
+      213: -4319387031075424271
+    second: Electricity-Sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electricity-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd5bef9754755910800000000000000
+      internalID: 1825493143662583293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a22b55a826603f0800000000000000
+      internalID: -934951526350050692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 39
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f6caff2f58c9f40800000000000000
+      internalID: 5736607304081239810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83833ebc41e350ee0800000000000000
+      internalID: -1295561058758215624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aad7f1a4b6b48b40800000000000000
+      internalID: 5441675136698145445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 7
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb1c72d5192d3ac0800000000000000
+      internalID: -3873894930766357505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c9bfae6cf4be40800000000000000
+      internalID: 5671435383091085578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec3cf04c814f38c0800000000000000
+      internalID: -4017420271949693716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59214585fe921830800000000000000
+      internalID: 4040466593044572511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f071041820f3410800000000000000
+      internalID: 1458887558440619865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dac6a294b9a94c0800000000000000
+      internalID: -4279937757315551965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f334df7189335fd0800000000000000
+      internalID: -2354474951826459658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e162ef6831e69b0800000000000000
+      internalID: -5085105458744254818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234a04b892058f10800000000000000
+      internalID: 2271224441957139234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb3cf8094260d5c0800000000000000
+      internalID: -4192743187259048981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 6
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82974729b6c859d0800000000000000
+      internalID: -2785257870998400369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f15d51647e04c0800000000000000
+      internalID: -4319387031075424271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 45
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63f6ab15a866d4582e65fd7d28f68f
+      internalID: 450239095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 45
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0804aeb3b0c9a4198c6a0fb7f3d6f6
+      internalID: -1690682999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8a38da0bbdbf4cbe1b339f93db265
+      internalID: -1962937506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb6e663f03c61488b1ccc14a532c0b
+      internalID: -51793662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 45
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85a6a075cac054092e6f9840bb6b7d
+      internalID: -1601857582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 46
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0aae1f0c95f2449ef657f963718fb
+      internalID: -232208266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electricity-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 44
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccae4bdf7735e14eb468f466ea17028
+      internalID: 1894769604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1f8d78ebb8736049ab790d0694144ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electricity-Sheet_0: 1825493143662583293
+      Electricity-Sheet_1: -934951526350050692
+      Electricity-Sheet_10: -4279937757315551965
+      Electricity-Sheet_11: -2354474951826459658
+      Electricity-Sheet_12: -5085105458744254818
+      Electricity-Sheet_13: 2271224441957139234
+      Electricity-Sheet_14: -4192743187259048981
+      Electricity-Sheet_15: -2785257870998400369
+      Electricity-Sheet_16: -4319387031075424271
+      Electricity-Sheet_17: 450239095
+      Electricity-Sheet_18: -1690682999
+      Electricity-Sheet_19: -1962937506
+      Electricity-Sheet_2: 5736607304081239810
+      Electricity-Sheet_20: -51793662
+      Electricity-Sheet_21: -1601857582
+      Electricity-Sheet_22: -232208266
+      Electricity-Sheet_23: 1894769604
+      Electricity-Sheet_3: -1295561058758215624
+      Electricity-Sheet_4: 5441675136698145445
+      Electricity-Sheet_5: -3873894930766357505
+      Electricity-Sheet_6: 5671435383091085578
+      Electricity-Sheet_7: -4017420271949693716
+      Electricity-Sheet_8: 4040466593044572511
+      Electricity-Sheet_9: 1458887558440619865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,6 +12,8 @@ public class Flamethrower : MonoBehaviour
     private int currentCharacter;
     public List<int> killable;
 
+    private SteelPlatform steel;
+
     private void Awake()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
@@ -23,6 +25,10 @@ public class Flamethrower : MonoBehaviour
         {
             player.GetComponent<Abilities>().BecomeCharcoal();  
         }
+        if (collision.CompareTag("PlayerPlatform"))
+        {
+            steel = collision.GetComponent<SteelPlatform>();
+        }
     }
 
     private void Start()
@@ -32,6 +38,11 @@ public class Flamethrower : MonoBehaviour
 
     private void Update()
     {
+        if (steel)
+        {
+            steel.heat++;
+        }
+
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
         currentCharacter = player.currentCharacter;
 
