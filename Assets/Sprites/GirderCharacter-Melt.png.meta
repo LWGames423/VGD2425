@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 6a364543f787fe44d9df6e0df40af1f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 686024716666441492
+    second: GirderCharacter-Melt_0
+  - first:
+      213: 6063287312919578014
+    second: GirderCharacter-Melt_1
+  - first:
+      213: 8638950052860548040
+    second: GirderCharacter-Melt_2
+  - first:
+      213: 1754026206196450294
+    second: GirderCharacter-Melt_3
+  - first:
+      213: -8285555410842744579
+    second: GirderCharacter-Melt_4
+  - first:
+      213: 2616578066862283658
+    second: GirderCharacter-Melt_5
+  - first:
+      213: 176511081782274468
+    second: GirderCharacter-Melt_6
+  - first:
+      213: -6352904280231242568
+    second: GirderCharacter-Melt_7
+  - first:
+      213: -7674046516139878479
+    second: GirderCharacter-Melt_8
+  - first:
+      213: 2933654240442986033
+    second: GirderCharacter-Melt_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 49
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f8a0858df358900800000000000000
+      internalID: 686024716666441492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 49
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9544b9bfaf152450800000000000000
+      internalID: 6063287312919578014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 49
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3581d4d47b3e770800000000000000
+      internalID: 8638950052860548040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 49
+        height: 15
+      alignment: 9
+      pivot: {x: 0.46938774, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c0139a8d875810800000000000000
+      internalID: 1754026206196450294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 49
+        height: 18
+      alignment: 9
+      pivot: {x: 0.46938774, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df807e9a04bc30d80800000000000000
+      internalID: -8285555410842744579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 49
+        height: 19
+      alignment: 9
+      pivot: {x: 0.46938774, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b976a73e3ff4420800000000000000
+      internalID: 2616578066862283658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 132
+        width: 49
+        height: 15
+      alignment: 9
+      pivot: {x: 0.46938774, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a96d88c4e7137200800000000000000
+      internalID: 176511081782274468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 131
+        width: 49
+        height: 13
+      alignment: 9
+      pivot: {x: 0.46938774, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b412cc5733f5d7a0800000000000000
+      internalID: -6352904280231242568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 49
+        height: 9
+      alignment: 9
+      pivot: {x: 0.46938774, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b798a73a5f408590800000000000000
+      internalID: -7674046516139878479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 54
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ac0180581628418b86634aaf93de9
+      internalID: 1979954529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 50
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45999998, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca12642a96836ce428ec9215c2414f99
+      internalID: -1442956773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 54
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e979e54adce3114b9ad50044e8a2f25
+      internalID: -697174823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 47
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4468085, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa63d40ba762774baab0271b996c410
+      internalID: -218779166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirderCharacter-Melt_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 44
+        height: 13
+      alignment: 9
+      pivot: {x: 0.38636366, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5886b732d6f9447a0fa1eb78934479
+      internalID: 383551722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10f25ae365c84b545a5bea5b96ca71d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GirderCharacter-Melt_10: -1442956773
+      GirderCharacter-Melt_11: -697174823
+      GirderCharacter-Melt_12: -218779166
+      GirderCharacter-Melt_13: 383551722
+      GirderCharacter-Melt_9: 1979954529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

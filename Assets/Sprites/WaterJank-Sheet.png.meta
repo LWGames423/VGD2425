@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: ce478262431211d49b122224748d3687
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2310411696280530880
+    second: WaterJank-Sheet_0
+  - first:
+      213: 7134767571043395073
+    second: WaterJank-Sheet_1
+  - first:
+      213: -825861049897210970
+    second: WaterJank-Sheet_2
+  - first:
+      213: 8637930935045651896
+    second: WaterJank-Sheet_3
+  - first:
+      213: 6506246415123000556
+    second: WaterJank-Sheet_4
+  - first:
+      213: -2612371440099734423
+    second: WaterJank-Sheet_5
+  - first:
+      213: 1555682651107846774
+    second: WaterJank-Sheet_6
+  - first:
+      213: -2067028819799802508
+    second: WaterJank-Sheet_7
+  - first:
+      213: 7785454305122536487
+    second: WaterJank-Sheet_8
+  - first:
+      213: 2866198113394150147
+    second: WaterJank-Sheet_9
+  - first:
+      213: 3135988686452336545
+    second: WaterJank-Sheet_10
+  - first:
+      213: 6941592102150250426
+    second: WaterJank-Sheet_11
+  - first:
+      213: 5767262424965664942
+    second: WaterJank-Sheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterJank-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 74
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5357143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf65b9523b301020800000000000000
+      internalID: 2310411696280530880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 74
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a403ed49c30360800000000000000
+      internalID: 7134767571043395073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 74
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abab0f20c3f984f0800000000000000
+      internalID: -825861049897210970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 74
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf0c17b6810e770800000000000000
+      internalID: 8637930935045651896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 74
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca09a94a4da4a50800000000000000
+      internalID: 6506246415123000556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cca73240efebbd0800000000000000
+      internalID: -2612371440099734423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 10
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a658af025e69510800000000000000
+      internalID: 1555682651107846774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 10
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d765f6d307053e0800000000000000
+      internalID: -2067028819799802508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 10
+        width: 28
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48936167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4ddff07d7b0c60800000000000000
+      internalID: 7785454305122536487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 10
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bc0c49ff7c6c720800000000000000
+      internalID: 2866198113394150147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 10
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7a2ab5815458b20800000000000000
+      internalID: 3135988686452336545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 10
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf92502d3d755060800000000000000
+      internalID: 6941592102150250426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterJank-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 10
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea059868e9e690050800000000000000
+      internalID: 5767262424965664942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf647efb0083c5e439ed9936ee7c2bb9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterJank-Sheet_0: 2310411696280530880
+      WaterJank-Sheet_1: 7134767571043395073
+      WaterJank-Sheet_10: 3135988686452336545
+      WaterJank-Sheet_11: 6941592102150250426
+      WaterJank-Sheet_12: 5767262424965664942
+      WaterJank-Sheet_2: -825861049897210970
+      WaterJank-Sheet_3: 8637930935045651896
+      WaterJank-Sheet_4: 6506246415123000556
+      WaterJank-Sheet_5: -2612371440099734423
+      WaterJank-Sheet_6: 1555682651107846774
+      WaterJank-Sheet_7: -2067028819799802508
+      WaterJank-Sheet_8: 7785454305122536487
+      WaterJank-Sheet_9: 2866198113394150147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
