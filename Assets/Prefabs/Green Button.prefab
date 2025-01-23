@@ -150,6 +150,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   holdButton: 0
+  spriteRenderer: {fileID: 5487957731211987050}
+  on: {fileID: 5011668007633327862, guid: fd6b08e0201354a4e8d181acdbf2e3a0, type: 3}
+  off: {fileID: -5854492218944891340, guid: fd6b08e0201354a4e8d181acdbf2e3a0, type: 3}
   wire: {fileID: 0}
 --- !u!61 &6299622777525484361
 BoxCollider2D:
