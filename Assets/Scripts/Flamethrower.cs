@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class Flamethrower : MonoBehaviour
 {
@@ -7,6 +8,22 @@ public class Flamethrower : MonoBehaviour
     private bool status = false, blocked = false;
     public Animator anim;
     public PowerManager pm;
+    private PlayerManager player;
+    private int currentCharacter;
+    public List<int> killable;
+
+    private void Awake()
+    {
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player") && currentCharacter == 2)
+        {
+            player.GetComponent<Abilities>().BecomeCharcoal();  
+        }
+    }
 
     private void Start()
     {
@@ -15,6 +32,9 @@ public class Flamethrower : MonoBehaviour
 
     private void Update()
     {
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
+        currentCharacter = player.currentCharacter;
+
         timer += Time.deltaTime;
         if (pm.power == -1)
         {

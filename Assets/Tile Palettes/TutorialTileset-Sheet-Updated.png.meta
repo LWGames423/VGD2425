@@ -1,139 +1,133 @@
 fileFormatVersion: 2
-guid: 8ab1c2fb4c2bba545b73d60073d8c5f1
+guid: fd6b08e0201354a4e8d181acdbf2e3a0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7441505955344224254
-    second: TreeSprout-Sheet_0
+      213: 8760870704257705685
+    second: TutorialTileset-Sheet-Updated_0
   - first:
-      213: -4870950339303678071
-    second: TreeSprout-Sheet_1
+      213: -4181662253518917171
+    second: TutorialTileset-Sheet-Updated_1
   - first:
-      213: 8040531227419357579
-    second: TreeSprout-Sheet_2
+      213: -6399445187850059402
+    second: TutorialTileset-Sheet-Updated_2
   - first:
-      213: 2693302559909302063
-    second: TreeSprout-Sheet_3
+      213: -6758471046397232552
+    second: TutorialTileset-Sheet-Updated_3
   - first:
-      213: 9161258689609100264
-    second: TreeSprout-Sheet_4
+      213: -4929684802023309689
+    second: TutorialTileset-Sheet-Updated_4
   - first:
-      213: 656069420559428763
-    second: TreeSprout-Sheet_5
+      213: -8882882205179649256
+    second: TutorialTileset-Sheet-Updated_5
   - first:
-      213: 7734737282136526924
-    second: TreeSprout-Sheet_6
+      213: 2733516606793875240
+    second: TutorialTileset-Sheet-Updated_6
   - first:
-      213: -9170457365486448590
-    second: TreeSprout-Sheet_7
+      213: -7224674271072265277
+    second: TutorialTileset-Sheet-Updated_7
   - first:
-      213: -7858828454755660236
-    second: TreeSprout-Sheet_8
+      213: 8267741697803575233
+    second: TutorialTileset-Sheet-Updated_8
   - first:
-      213: -3322482536601351167
-    second: TreeSprout-Sheet_9
+      213: -9035997256553362720
+    second: TutorialTileset-Sheet-Updated_9
   - first:
-      213: 4260711970811767294
-    second: TreeSprout-Sheet_10
+      213: -7456078318708375880
+    second: TutorialTileset-Sheet-Updated_10
   - first:
-      213: -801016222232321280
-    second: TreeSprout-Sheet_11
+      213: 4642237639775956090
+    second: TutorialTileset-Sheet-Updated_11
   - first:
-      213: -1933357710739841558
-    second: TreeSprout-Sheet_12
+      213: -7657301622223838957
+    second: TutorialTileset-Sheet-Updated_12
   - first:
-      213: 8539876630057305875
-    second: TreeSprout-Sheet_13
+      213: -6306759592268633562
+    second: TutorialTileset-Sheet-Updated_13
   - first:
-      213: 6718060802496400663
-    second: TreeSprout-Sheet_14
+      213: 7901724304622481941
+    second: TutorialTileset-Sheet-Updated_14
   - first:
-      213: -7604455711193430934
-    second: TreeSprout-Sheet_15
+      213: 2909151227994446957
+    second: TutorialTileset-Sheet-Updated_15
   - first:
-      213: 7270260478622059631
-    second: TreeSprout-Sheet_16
+      213: 3632077682664016749
+    second: TutorialTileset-Sheet-Updated_16
   - first:
-      213: -3177585949814316041
-    second: TreeSprout-Sheet_17
+      213: 1167898051514511599
+    second: TutorialTileset-Sheet-Updated_17
   - first:
-      213: -1459880324803666561
-    second: TreeSprout-Sheet_18
+      213: -5854492218944891340
+    second: TutorialTileset-Sheet-Updated_18
   - first:
-      213: 7199556369987055200
-    second: TreeSprout-Sheet_19
+      213: -7808916709677779113
+    second: TutorialTileset-Sheet-Updated_19
   - first:
-      213: -3765811806027774650
-    second: TreeSprout-Sheet_20
+      213: 7057537472231743409
+    second: TutorialTileset-Sheet-Updated_20
   - first:
-      213: 5654647962065996172
-    second: TreeSprout-Sheet_21
+      213: -7368799439869273044
+    second: TutorialTileset-Sheet-Updated_21
   - first:
-      213: 6668562423975309783
-    second: TreeSprout-Sheet_22
+      213: -335751617450707622
+    second: TutorialTileset-Sheet-Updated_22
   - first:
-      213: -8021205610512931443
-    second: TreeSprout-Sheet_23
+      213: -155191815734720380
+    second: TutorialTileset-Sheet-Updated_23
   - first:
-      213: -1489614965794317826
-    second: TreeSprout-Sheet_24
+      213: 5011668007633327862
+    second: TutorialTileset-Sheet-Updated_24
   - first:
-      213: -2949794641093455401
-    second: TreeSprout-Sheet_25
+      213: -3767231904937945320
+    second: TutorialTileset-Sheet-Updated_25
   - first:
-      213: 5755008710556215561
-    second: TreeSprout-Sheet_26
+      213: 2315055490782453437
+    second: TutorialTileset-Sheet-Updated_26
   - first:
-      213: -2034556058823257440
-    second: TreeSprout-Sheet_27
+      213: -8734784932037921383
+    second: TutorialTileset-Sheet-Updated_27
   - first:
-      213: 6628326101112810145
-    second: TreeSprout-Sheet_28
+      213: 3386251983668247998
+    second: TutorialTileset-Sheet-Updated_28
   - first:
-      213: -5846880107142785422
-    second: TreeSprout-Sheet_29
+      213: -6603449155976257774
+    second: TutorialTileset-Sheet-Updated_29
   - first:
-      213: 2309912797506860266
-    second: TreeSprout-Sheet_30
+      213: 2127492513880925691
+    second: TutorialTileset-Sheet-Updated_30
   - first:
-      213: 2882722260993035870
-    second: TreeSprout-Sheet_31
+      213: 2889480339699243649
+    second: TutorialTileset-Sheet-Updated_31
   - first:
-      213: -7065117125196350875
-    second: TreeSprout-Sheet_32
+      213: 8312905225162372931
+    second: TutorialTileset-Sheet-Updated_32
   - first:
-      213: 7728130249375711504
-    second: TreeSprout-Sheet_33
+      213: 5750514761184764996
+    second: TutorialTileset-Sheet-Updated_33
   - first:
-      213: -4036434879353097683
-    second: TreeSprout-Sheet_34
+      213: 5008942105761256072
+    second: TutorialTileset-Sheet-Updated_34
   - first:
-      213: 5487700688708682029
-    second: TreeSprout-Sheet_35
+      213: 3138981886459199304
+    second: TutorialTileset-Sheet-Updated_35
   - first:
-      213: -703006582630701743
-    second: TreeSprout-Sheet_36
+      213: -2713801866862698156
+    second: TutorialTileset-Sheet-Updated_36
   - first:
-      213: -5763280847348882737
-    second: TreeSprout-Sheet_37
+      213: 6495122780054997691
+    second: TutorialTileset-Sheet-Updated_37
   - first:
-      213: -7774240315220989670
-    second: TreeSprout-Sheet_38
+      213: -8464462524392769400
+    second: TutorialTileset-Sheet-Updated_38
   - first:
-      213: 2140140233896309880
-    second: TreeSprout-Sheet_39
+      213: -1237560328864091420
+    second: TutorialTileset-Sheet-Updated_39
   - first:
-      213: -3407491031788979150
-    second: TreeSprout-Sheet_40
+      213: -2530711590974082627
+    second: TutorialTileset-Sheet-Updated_40
   - first:
-      213: 7792922917404421289
-    second: TreeSprout-Sheet_41
-  - first:
-      213: 5396103804191111346
-    second: TreeSprout-Sheet_42
-  - first:
-      213: -1204180083640659173
-    second: TreeSprout-Sheet_43
+      213: -7035251451999912565
+    second: TutorialTileset-Sheet-Updated_41
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -180,7 +174,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 5
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -229,12 +223,232 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TreeSprout-Sheet_0
+      name: TutorialTileset-Sheet-Updated_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 277
-        width: 18
+        x: 1
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6286a0d7dd49970800000000000000
+      internalID: 8760870704257705685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc17858f550c7f5c0800000000000000
+      internalID: -4181662253518917171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6714d92e18a9037a0800000000000000
+      internalID: -6399445187850059402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85afab624661532a0800000000000000
+      internalID: -6758471046397232552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e32c88acd369bb0800000000000000
+      internalID: -4929684802023309689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e0aaa2b9a9b480800000000000000
+      internalID: -8882882205179649256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f749ffed66fe520800000000000000
+      internalID: 2733516606793875240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb55d6470dccbb90800000000000000
+      internalID: -7224674271072265277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf5440154becb270800000000000000
+      internalID: 8267741697803575233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 377
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea8bb3be50b99280800000000000000
+      internalID: -9035997256553362720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 393
+        width: 37
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -244,19 +458,283 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eff0f365d3a854760800000000000000
-      internalID: 7441505955344224254
+      spriteID: 8be35ebe540b68890800000000000000
+      internalID: -7456078318708375880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_1
+      name: TutorialTileset-Sheet-Updated_11
       rect:
         serializedVersion: 2
-        x: 39
-        y: 277
-        width: 18
+        x: 256
+        y: 394
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2bc9a98a8c6040800000000000000
+      internalID: 4642237639775956090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 395
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3116355aebccbb590800000000000000
+      internalID: -7657301622223838957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 394
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a6a03c093e978a0800000000000000
+      internalID: -6306759592268633562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512f712d36098ad60800000000000000
+      internalID: 7901724304622481941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1086e0a16f5820800000000000000
+      internalID: 2909151227994446957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b00d7a86bb76230800000000000000
+      internalID: 3632077682664016749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 352
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0b46e0715353010800000000000000
+      internalID: 1167898051514511599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 352
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365085685aa0cea0800000000000000
+      internalID: -5854492218944891340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 336
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7573b0f30a721a390800000000000000
+      internalID: -7808916709677779113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 351
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf916540f861f160800000000000000
+      internalID: 7057537472231743409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 336
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c9e7573f3ccb990800000000000000
+      internalID: -7368799439869273044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55761dceab275bf0800000000000000
+      internalID: -335751617450707622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 320
+        width: 52
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -266,19 +744,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98f5c3b4978e66cb0800000000000000
-      internalID: -4870950339303678071
+      spriteID: 4888517add5a8ddf0800000000000000
+      internalID: -155191815734720380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_2
+      name: TutorialTileset-Sheet-Updated_24
       rect:
         serializedVersion: 2
-        x: 71
-        y: 277
-        width: 18
+        x: 182
+        y: 320
+        width: 52
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -288,20 +766,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8134cffc84b59f60800000000000000
-      internalID: 8040531227419357579
+      spriteID: 6f69c2fff750d8540800000000000000
+      internalID: 5011668007633327862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_3
+      name: TutorialTileset-Sheet-Updated_25
       rect:
         serializedVersion: 2
-        x: 103
-        y: 277
-        width: 18
-        height: 21
+        x: 240
+        y: 249
+        width: 58
+        height: 102
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,20 +788,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2f4b049868806520800000000000000
-      internalID: 2693302559909302063
+      spriteID: 817d7a7ca8a18bbc0800000000000000
+      internalID: -3767231904937945320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_4
+      name: TutorialTileset-Sheet-Updated_26
       rect:
         serializedVersion: 2
-        x: 135
-        y: 277
+        x: 321
+        y: 297
         width: 18
-        height: 21
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,327 +810,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8eb6c916d34532f70800000000000000
-      internalID: 9161258689609100264
+      spriteID: dbed76304bab02020800000000000000
+      internalID: 2315055490782453437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_5
+      name: TutorialTileset-Sheet-Updated_27
       rect:
         serializedVersion: 2
-        x: 167
-        y: 277
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9ce07879a3da1900800000000000000
-      internalID: 656069420559428763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 277
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c40d7b4e39e475b60800000000000000
-      internalID: 7734737282136526924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 209
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 230d05efc9dfbb080800000000000000
-      internalID: -9170457365486448590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 209
-        width: 21
-        height: 20
-      alignment: 9
-      pivot: {x: 0.5714286, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43e8e838825dfe290800000000000000
-      internalID: -7858828454755660236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.64, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10c00797cbb24e1d0800000000000000
-      internalID: -3322482536601351167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 209
-        width: 26
-        height: 20
-      alignment: 9
-      pivot: {x: 0.6538462, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef96d7696f6112b30800000000000000
-      internalID: 4260711970811767294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.64, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00364866df732e4f0800000000000000
-      internalID: -801016222232321280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.68, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aedd69bc7655b25e0800000000000000
-      internalID: -1933357710739841558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_13
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.68, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 317c9308c8cb38670800000000000000
-      internalID: 8539876630057305875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.68, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71d0640c4b85b3d50800000000000000
-      internalID: 6718060802496400663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.68, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a64002022db877690800000000000000
-      internalID: -7604455711193430934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 209
-        width: 25
-        height: 20
-      alignment: 9
-      pivot: {x: 0.68, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6c44d4c26725e460800000000000000
-      internalID: 7270260478622059631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 209
-        width: 24
-        height: 20
-      alignment: 9
-      pivot: {x: 0.6666667, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f3ab0a0a62f6e3d0800000000000000
-      internalID: -3177585949814316041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 209
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7dde7154967dbbe0800000000000000
-      internalID: -1459880324803666561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 142
-        width: 18
+        x: 354
+        y: 317
+        width: 19
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -662,19 +832,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06eaa75af56f9e360800000000000000
-      internalID: 7199556369987055200
+      spriteID: 995f178126fc7c680800000000000000
+      internalID: -8734784932037921383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_20
+      name: TutorialTileset-Sheet-Updated_28
       rect:
         serializedVersion: 2
-        x: 39
-        y: 142
-        width: 18
+        x: 380
+        y: 317
+        width: 19
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -684,20 +854,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6450eb25d162dbbc0800000000000000
-      internalID: -3765811806027774650
+      spriteID: ebdf18eec326efe20800000000000000
+      internalID: 3386251983668247998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_21
+      name: TutorialTileset-Sheet-Updated_29
       rect:
         serializedVersion: 2
-        x: 7
-        y: 73
+        x: 413
+        y: 297
         width: 18
-        height: 21
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +876,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8984d4ac58597e40800000000000000
-      internalID: 5654647962065996172
+      spriteID: 21f9eadaaf5db54a0800000000000000
+      internalID: -6603449155976257774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_22
+      name: TutorialTileset-Sheet-Updated_30
       rect:
         serializedVersion: 2
-        x: 39
-        y: 73
-        width: 18
-        height: 21
+        x: 38
+        y: 257
+        width: 36
+        height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,20 +898,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d1f09b613e7b8c50800000000000000
-      internalID: 6668562423975309783
+      spriteID: bf5ec206b2f568d10800000000000000
+      internalID: 2127492513880925691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_23
+      name: TutorialTileset-Sheet-Updated_31
       rect:
         serializedVersion: 2
-        x: 71
-        y: 73
-        width: 18
-        height: 21
+        x: 78
+        y: 257
+        width: 36
+        height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,20 +920,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d85a103def3fea090800000000000000
-      internalID: -8021205610512931443
+      spriteID: 18a9f315f0f791820800000000000000
+      internalID: 2889480339699243649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_24
+      name: TutorialTileset-Sheet-Updated_32
       rect:
         serializedVersion: 2
-        x: 103
-        y: 73
-        width: 18
-        height: 21
+        x: 118
+        y: 288
+        width: 52
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -772,20 +942,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef959b7b413d35be0800000000000000
-      internalID: -1489614965794317826
+      spriteID: 347ba45324f5d5370800000000000000
+      internalID: 8312905225162372931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_25
+      name: TutorialTileset-Sheet-Updated_33
       rect:
         serializedVersion: 2
-        x: 135
-        y: 73
-        width: 18
-        height: 21
+        x: 182
+        y: 288
+        width: 52
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -794,20 +964,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d1164117693017d0800000000000000
-      internalID: -2949794641093455401
+      spriteID: 444ee0035beedcf40800000000000000
+      internalID: 5750514761184764996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_26
+      name: TutorialTileset-Sheet-Updated_34
       rect:
         serializedVersion: 2
-        x: 167
-        y: 73
-        width: 18
-        height: 21
+        x: 354
+        y: 293
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -816,20 +986,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9096bff4ee5eddf40800000000000000
-      internalID: 5755008710556215561
+      spriteID: 88295628e46538540800000000000000
+      internalID: 5008942105761256072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_27
+      name: TutorialTileset-Sheet-Updated_35
       rect:
         serializedVersion: 2
-        x: 199
-        y: 73
-        width: 18
-        height: 21
+        x: 380
+        y: 293
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,305 +1008,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a298364b0ec3c3e0800000000000000
-      internalID: -2034556058823257440
+      spriteID: 84f39ca0567ef8b20800000000000000
+      internalID: 3138981886459199304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_28
+      name: TutorialTileset-Sheet-Updated_36
       rect:
         serializedVersion: 2
-        x: 231
-        y: 73
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1aa6748787b8cfb50800000000000000
-      internalID: 6628326101112810145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 5
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 276d4794585bbdea0800000000000000
-      internalID: -5846880107142785422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 5
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae4768d63757e0020800000000000000
-      internalID: 2309912797506860266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 5
-        width: 18
-        height: 27
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3888889}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5ec9908f9c710820800000000000000
-      internalID: 2882722260993035870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 5
-        width: 18
-        height: 29
-      alignment: 9
-      pivot: {x: 0.5, y: 0.36206895}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56a74204869a3fd90800000000000000
-      internalID: -7065117125196350875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_33
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 5
-        width: 18
-        height: 30
-      alignment: 9
-      pivot: {x: 0.5, y: 0.28333333}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0118df33485df3b60800000000000000
-      internalID: 7728130249375711504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_34
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 5
-        width: 18
-        height: 30
-      alignment: 9
-      pivot: {x: 0.5, y: 0.35}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d227929fcd3bbf7c0800000000000000
-      internalID: -4036434879353097683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_35
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 5
-        width: 18
-        height: 29
-      alignment: 9
-      pivot: {x: 0.5, y: 0.36206895}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d21c52883ba382c40800000000000000
-      internalID: 5487700688708682029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_36
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 5
-        width: 18
-        height: 27
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3888889}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 155298fdc3b6e36f0800000000000000
-      internalID: -703006582630701743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_37
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 5
-        width: 18
-        height: 25
-      alignment: 9
-      pivot: {x: 0.5, y: 0.42}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc225f0ca96b400b0800000000000000
-      internalID: -5763280847348882737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_38
-      rect:
-        serializedVersion: 2
-        x: 295
-        y: 5
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a196bbc7f995c1490800000000000000
-      internalID: -7774240315220989670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_39
-      rect:
-        serializedVersion: 2
-        x: 494
-        y: 5
-        width: 7
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87439ea243e43bd10800000000000000
-      internalID: 2140140233896309880
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 5
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23c73e2d5f826b0d0800000000000000
-      internalID: -3407491031788979150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TreeSprout-Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 580
-        y: 5
+        x: 5
+        y: 253
         width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4516bd69493a65ad0800000000000000
+      internalID: -2713801866862698156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialTileset-Sheet-Updated_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 256
+        width: 52
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1146,19 +1052,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ac24edca16062c60800000000000000
-      internalID: 7792922917404421289
+      spriteID: bbac9bd71cf432a50800000000000000
+      internalID: 6495122780054997691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_42
+      name: TutorialTileset-Sheet-Updated_38
       rect:
         serializedVersion: 2
-        x: 612
-        y: 5
-        width: 22
+        x: 182
+        y: 256
+        width: 52
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1168,20 +1074,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b8f1f3f1dfc2ea40800000000000000
-      internalID: 5396103804191111346
+      spriteID: 88876f24e20388a80800000000000000
+      internalID: -8464462524392769400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_43
+      name: TutorialTileset-Sheet-Updated_39
       rect:
         serializedVersion: 2
-        x: 329
-        y: 5
-        width: 18
-        height: 21
+        x: 321
+        y: 259
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1190,52 +1096,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b139ffc0894e94fe0800000000000000
-      internalID: -1204180083640659173
+      spriteID: 4e2b0f1107d43dee0800000000000000
+      internalID: -1237560328864091420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_44
+      name: TutorialTileset-Sheet-Updated_40
       rect:
         serializedVersion: 2
-        x: 361
-        y: 5
-        width: 18
-        height: 21
+        x: 359
+        y: 259
+        width: 34
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 837a4852640bce14f861d6f54e2c5b87
-      internalID: 1231944337
+      spriteID: db1b60f573b11ecd0800000000000000
+      internalID: -2530711590974082627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TreeSprout-Sheet_45
+      name: TutorialTileset-Sheet-Updated_41
       rect:
         serializedVersion: 2
-        x: 520
-        y: 5
-        width: 18
-        height: 21
+        x: 398
+        y: 259
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ee7f99f6e3a04214bb9b4703ccb9c98e
-      internalID: -1799107237
+      spriteID: b8d7ef92414cd5e90800000000000000
+      internalID: -7035251451999912565
       vertices: []
       indices: 
       edges: []
@@ -1244,7 +1150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f9887a851bf85224bbcf15eb13edc020
+    spriteID: 903797d523ec10a4ea54a9998b8fb381
     internalID: 0
     vertices: []
     indices: 
@@ -1254,52 +1160,48 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TreeSprout-Sheet_0: 7441505955344224254
-      TreeSprout-Sheet_1: -4870950339303678071
-      TreeSprout-Sheet_10: 4260711970811767294
-      TreeSprout-Sheet_11: -801016222232321280
-      TreeSprout-Sheet_12: -1933357710739841558
-      TreeSprout-Sheet_13: 8539876630057305875
-      TreeSprout-Sheet_14: 6718060802496400663
-      TreeSprout-Sheet_15: -7604455711193430934
-      TreeSprout-Sheet_16: 7270260478622059631
-      TreeSprout-Sheet_17: -3177585949814316041
-      TreeSprout-Sheet_18: -1459880324803666561
-      TreeSprout-Sheet_19: 7199556369987055200
-      TreeSprout-Sheet_2: 8040531227419357579
-      TreeSprout-Sheet_20: -3765811806027774650
-      TreeSprout-Sheet_21: 5654647962065996172
-      TreeSprout-Sheet_22: 6668562423975309783
-      TreeSprout-Sheet_23: -8021205610512931443
-      TreeSprout-Sheet_24: -1489614965794317826
-      TreeSprout-Sheet_25: -2949794641093455401
-      TreeSprout-Sheet_26: 5755008710556215561
-      TreeSprout-Sheet_27: -2034556058823257440
-      TreeSprout-Sheet_28: 6628326101112810145
-      TreeSprout-Sheet_29: -5846880107142785422
-      TreeSprout-Sheet_3: 2693302559909302063
-      TreeSprout-Sheet_30: 2309912797506860266
-      TreeSprout-Sheet_31: 2882722260993035870
-      TreeSprout-Sheet_32: -7065117125196350875
-      TreeSprout-Sheet_33: 7728130249375711504
-      TreeSprout-Sheet_34: -4036434879353097683
-      TreeSprout-Sheet_35: 5487700688708682029
-      TreeSprout-Sheet_36: -703006582630701743
-      TreeSprout-Sheet_37: -5763280847348882737
-      TreeSprout-Sheet_38: -7774240315220989670
-      TreeSprout-Sheet_39: 2140140233896309880
-      TreeSprout-Sheet_4: 9161258689609100264
-      TreeSprout-Sheet_40: -3407491031788979150
-      TreeSprout-Sheet_41: 7792922917404421289
-      TreeSprout-Sheet_42: 5396103804191111346
-      TreeSprout-Sheet_43: -1204180083640659173
-      TreeSprout-Sheet_44: 1231944337
-      TreeSprout-Sheet_45: -1799107237
-      TreeSprout-Sheet_5: 656069420559428763
-      TreeSprout-Sheet_6: 7734737282136526924
-      TreeSprout-Sheet_7: -9170457365486448590
-      TreeSprout-Sheet_8: -7858828454755660236
-      TreeSprout-Sheet_9: -3322482536601351167
+      TutorialTileset-Sheet-Updated_0: 8760870704257705685
+      TutorialTileset-Sheet-Updated_1: -4181662253518917171
+      TutorialTileset-Sheet-Updated_10: -7456078318708375880
+      TutorialTileset-Sheet-Updated_11: 4642237639775956090
+      TutorialTileset-Sheet-Updated_12: -7657301622223838957
+      TutorialTileset-Sheet-Updated_13: -6306759592268633562
+      TutorialTileset-Sheet-Updated_14: 7901724304622481941
+      TutorialTileset-Sheet-Updated_15: 2909151227994446957
+      TutorialTileset-Sheet-Updated_16: 3632077682664016749
+      TutorialTileset-Sheet-Updated_17: 1167898051514511599
+      TutorialTileset-Sheet-Updated_18: -5854492218944891340
+      TutorialTileset-Sheet-Updated_19: -7808916709677779113
+      TutorialTileset-Sheet-Updated_2: -6399445187850059402
+      TutorialTileset-Sheet-Updated_20: 7057537472231743409
+      TutorialTileset-Sheet-Updated_21: -7368799439869273044
+      TutorialTileset-Sheet-Updated_22: -335751617450707622
+      TutorialTileset-Sheet-Updated_23: -155191815734720380
+      TutorialTileset-Sheet-Updated_24: 5011668007633327862
+      TutorialTileset-Sheet-Updated_25: -3767231904937945320
+      TutorialTileset-Sheet-Updated_26: 2315055490782453437
+      TutorialTileset-Sheet-Updated_27: -8734784932037921383
+      TutorialTileset-Sheet-Updated_28: 3386251983668247998
+      TutorialTileset-Sheet-Updated_29: -6603449155976257774
+      TutorialTileset-Sheet-Updated_3: -6758471046397232552
+      TutorialTileset-Sheet-Updated_30: 2127492513880925691
+      TutorialTileset-Sheet-Updated_31: 2889480339699243649
+      TutorialTileset-Sheet-Updated_32: 8312905225162372931
+      TutorialTileset-Sheet-Updated_33: 5750514761184764996
+      TutorialTileset-Sheet-Updated_34: 5008942105761256072
+      TutorialTileset-Sheet-Updated_35: 3138981886459199304
+      TutorialTileset-Sheet-Updated_36: -2713801866862698156
+      TutorialTileset-Sheet-Updated_37: 6495122780054997691
+      TutorialTileset-Sheet-Updated_38: -8464462524392769400
+      TutorialTileset-Sheet-Updated_39: -1237560328864091420
+      TutorialTileset-Sheet-Updated_4: -4929684802023309689
+      TutorialTileset-Sheet-Updated_40: -2530711590974082627
+      TutorialTileset-Sheet-Updated_41: -7035251451999912565
+      TutorialTileset-Sheet-Updated_5: -8882882205179649256
+      TutorialTileset-Sheet-Updated_6: 2733516606793875240
+      TutorialTileset-Sheet-Updated_7: -7224674271072265277
+      TutorialTileset-Sheet-Updated_8: 8267741697803575233
+      TutorialTileset-Sheet-Updated_9: -9035997256553362720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

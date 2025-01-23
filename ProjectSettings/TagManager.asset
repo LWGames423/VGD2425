@@ -7,6 +7,7 @@ TagManager:
   - Kill
   - PlayerPlatform
   - Carousel
+  - CharacterManager
   layers:
   - Default
   - TransparentFX

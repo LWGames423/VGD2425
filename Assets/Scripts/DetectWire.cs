@@ -12,6 +12,14 @@ public class DetectWire : MonoBehaviour
         pm = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
     }
 
+    private void Update()
+    {
+        if (!pm)
+        {
+            pm = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if ((collision.CompareTag("Player") && pm.currentCharacter == 0) || collision.CompareTag("PlayerPlatform"))

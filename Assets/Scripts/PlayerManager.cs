@@ -10,7 +10,7 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     public PlayerMovement pm;
     
-    [Header("Player Stats")] 
+    [Header("Player Stats")]
     public float maxHealth = 100f;
     public float currentHealth;
     public float stamina = 100f;
@@ -85,28 +85,43 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     
     
-    private void Start()
+    private void Awake()
     {
         currentHealth = maxHealth;
         _timeElapsed = Time.time;
 
-        moveSpeed = cm.charList[currentCharacter].getSpeed();
-        jumpCount = cm.charList[currentCharacter].getJumpCount();
-        jumpForce = cm.charList[currentCharacter].getJumpForce();
-        jumpCutMultiplier = cm.charList[currentCharacter].getJumpCut();
-        dashForce = cm.charList[currentCharacter].getDashForce();
+        cm = GameObject.FindWithTag("CharacterManager").GetComponent<characterManager>();
+
+        if (cm.charList.Count >= currentCharacter)
+        {
+            moveSpeed = cm.charList[currentCharacter].getSpeed();
+            jumpCount = cm.charList[currentCharacter].getJumpCount();
+            jumpForce = cm.charList[currentCharacter].getJumpForce();
+            jumpCutMultiplier = cm.charList[currentCharacter].getJumpCut();
+            dashForce = cm.charList[currentCharacter].getDashForce();
+        }
+
+        pm.enabled = true;
     }
 
     private void Update()
     {
-        
+
+        if (!pm.enabled)
+        {
+            pm.enabled = true;
+        }
+
         // update vals whenever stuff changes
-        moveSpeed = cm.charList[currentCharacter].getSpeed();
-        jumpCount = cm.charList[currentCharacter].getJumpCount();
-        jumpForce = cm.charList[currentCharacter].getJumpForce();
-        jumpCutMultiplier = cm.charList[currentCharacter].getJumpCut();
-        dashForce = cm.charList[currentCharacter].getDashForce();
-        
+        if (cm.charList.Count >= currentCharacter)
+        {
+            moveSpeed = cm.charList[currentCharacter].getSpeed();
+            jumpCount = cm.charList[currentCharacter].getJumpCount();
+            jumpForce = cm.charList[currentCharacter].getJumpForce();
+            jumpCutMultiplier = cm.charList[currentCharacter].getJumpCut();
+            dashForce = cm.charList[currentCharacter].getDashForce();
+        }
+
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         
         if (Time.time - _timeElapsed > regenDelay)

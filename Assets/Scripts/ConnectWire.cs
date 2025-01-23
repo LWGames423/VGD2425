@@ -7,14 +7,17 @@ public class ConnectWire : MonoBehaviour
     public PowerManager pm;
     public GameObject end;
 
+    private int power;
     private bool triggered = false;
 
     private void Awake()
     {
-        if (!wireStart && !wireEnd)
+        if (!wireEnd)
         {
             end.GetComponent<PowerManager>().power += pm.power;
         }
+
+        power = pm.power;
     }
 
     private void Update()
@@ -40,9 +43,10 @@ public class ConnectWire : MonoBehaviour
             }
         }
 
-        else
+        else if (power != pm.power)
         {
             end.GetComponent<PowerManager>().power = pm.power;
+            power = pm.power;
         }
     }
 }

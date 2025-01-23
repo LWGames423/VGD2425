@@ -91,6 +91,8 @@ public class PlayerMovement : MonoBehaviour
         transform.position = playerSpawn.transform.position;
         _acceleration = pm.acceleration;
         _moveSpeed = pm.moveSpeed;
+
+        playerSpawn = GameObject.FindWithTag("Respawn");
     }
     
     void Start()
@@ -105,7 +107,12 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         yv = _rb.linearVelocity.y;
-        
+
+        if (!playerSpawn)
+        {
+            playerSpawn = GameObject.FindWithTag("Respawn");
+        }
+
         #region InputChecks
         if (pm.canMove)
         {
@@ -196,14 +203,18 @@ public class PlayerMovement : MonoBehaviour
 
         if (_moveInput > 0 && !_facingRight)
         {
-            Flip();
             _facingRight = true;
+            //Flip();
         }
         else if(_moveInput < 0 && _facingRight)
         {
-            Flip();
             _facingRight = false;
+            //Flip();
         }
+
+        Vector3 scaler = transform.localScale;
+        scaler.x = Math.Abs(scaler.x) * ((_facingRight) ? -1 : 1);
+        transform.localScale = scaler;
 
         #endregion
 
@@ -222,15 +233,19 @@ public class PlayerMovement : MonoBehaviour
         _isSubmerged = Physics2D.OverlapBox(waterCheck.position, pm.waterCheckRadius, 0, waterLayer);
         _touchingLadder = Physics2D.OverlapBox(groundCheck.position, pm.checkRadius, 0, ladderLayer);
 
-        if (!_isGrounded)
+        if (!_isGrounded && _acceleration != 0)
         {
-            pm.acceleration = _acceleration/2.0f;
-            _moveSpeed = pm.moveSpeed/1.5f;
+            pm.acceleration = _acceleration / 2.0f;
+            _moveSpeed = pm.moveSpeed / 1.5f;
         }
-        else
+        else if (_acceleration != 0)
         {
             pm.acceleration = _acceleration;
             _moveSpeed = pm.moveSpeed;
+        }
+        else
+        {
+            _acceleration = pm.acceleration;
         }
         
         if (_isGrounded && _jumpInput < 0.01 && !_isSubmerged)
@@ -402,9 +417,8 @@ public class PlayerMovement : MonoBehaviour
     
     void Flip()
     {
-        _facingRight = !_facingRight;
         Vector3 scaler = transform.localScale;
-        scaler.x *= -1;
+        scaler.x = Math.Abs(scaler.x) * ((_facingRight) ? -1 : 1);
         transform.localScale = scaler;
     }
     

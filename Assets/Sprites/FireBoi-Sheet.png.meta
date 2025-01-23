@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 6d062842cda71ea4bb1a868344b6d11d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5525827403819151247
+    second: FireBoi-Sheet_0
+  - first:
+      213: -5797840439444317195
+    second: FireBoi-Sheet_1
+  - first:
+      213: -6570164136691846312
+    second: FireBoi-Sheet_2
+  - first:
+      213: -2219331180030626821
+    second: FireBoi-Sheet_3
+  - first:
+      213: 2647874431028275910
+    second: FireBoi-Sheet_4
+  - first:
+      213: 1775646581295190299
+    second: FireBoi-Sheet_5
+  - first:
+      213: 2585086369392324628
+    second: FireBoi-Sheet_6
+  - first:
+      213: 2216221751263861133
+    second: FireBoi-Sheet_7
+  - first:
+      213: -8280307652180419107
+    second: FireBoi-Sheet_8
+  - first:
+      213: 5170043441672792097
+    second: FireBoi-Sheet_9
+  - first:
+      213: -2882414838294699694
+    second: FireBoi-Sheet_10
+  - first:
+      213: 1324183067047665990
+    second: FireBoi-Sheet_11
+  - first:
+      213: -1731863339039270435
+    second: FireBoi-Sheet_12
+  - first:
+      213: 5949469041635661192
+    second: FireBoi-Sheet_13
+  - first:
+      213: -1445817998062395237
+    second: FireBoi-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireBoi-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1709d39d0415053b0800000000000000
+      internalID: -5525827403819151247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd68ea6dee98fa0800000000000000
+      internalID: -5797840439444317195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853b874278612d4a0800000000000000
+      internalID: -6570164136691846312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3735fdc0a5331e0800000000000000
+      internalID: -2219331180030626821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caa74714c32fb420800000000000000
+      internalID: 2647874431028275910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119cbc682d54a810800000000000000
+      internalID: 1775646581295190299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41075594b5210e320800000000000000
+      internalID: 2585086369392324628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 78
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899393d0f991ce10800000000000000
+      internalID: 2216221751263861133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd56d0bf00761d80800000000000000
+      internalID: -8280307652180419107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ae3e3e1fafb740800000000000000
+      internalID: 5170043441672792097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251212ce9fa9ff7d0800000000000000
+      internalID: -2882414838294699694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a6f0db71706210800000000000000
+      internalID: 1324183067047665990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9da0d087f27f7e0800000000000000
+      internalID: -1731863339039270435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88590ec5292c09250800000000000000
+      internalID: 5949469041635661192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBoi-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 14
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ef97e03c6febe0800000000000000
+      internalID: -1445817998062395237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0453bc00d7f729a4d8078f70b734ad76
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireBoi-Sheet_0: -5525827403819151247
+      FireBoi-Sheet_1: -5797840439444317195
+      FireBoi-Sheet_10: -2882414838294699694
+      FireBoi-Sheet_11: 1324183067047665990
+      FireBoi-Sheet_12: -1731863339039270435
+      FireBoi-Sheet_13: 5949469041635661192
+      FireBoi-Sheet_14: -1445817998062395237
+      FireBoi-Sheet_2: -6570164136691846312
+      FireBoi-Sheet_3: -2219331180030626821
+      FireBoi-Sheet_4: 2647874431028275910
+      FireBoi-Sheet_5: 1775646581295190299
+      FireBoi-Sheet_6: 2585086369392324628
+      FireBoi-Sheet_7: 2216221751263861133
+      FireBoi-Sheet_8: -8280307652180419107
+      FireBoi-Sheet_9: 5170043441672792097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

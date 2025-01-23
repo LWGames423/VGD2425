@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: ac012afd417eb4144aabe56ddb32f6f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7405730285788271029
+    second: SteamEngine-Sheet_0
+  - first:
+      213: -3839928219242720203
+    second: SteamEngine-Sheet_1
+  - first:
+      213: 5259287154926162755
+    second: SteamEngine-Sheet_2
+  - first:
+      213: -2611612625620212230
+    second: SteamEngine-Sheet_3
+  - first:
+      213: 522124820682487212
+    second: SteamEngine-Sheet_4
+  - first:
+      213: 903155587782158029
+    second: SteamEngine-Sheet_5
+  - first:
+      213: -4406833058632394263
+    second: SteamEngine-Sheet_6
+  - first:
+      213: 604747470646011807
+    second: SteamEngine-Sheet_7
+  - first:
+      213: 374576288863065657
+    second: SteamEngine-Sheet_8
+  - first:
+      213: -299530976985663145
+    second: SteamEngine-Sheet_9
+  - first:
+      213: -6929401244150788198
+    second: SteamEngine-Sheet_10
+  - first:
+      213: -2884315316394302391
+    second: SteamEngine-Sheet_11
+  - first:
+      213: 2606612172148300234
+    second: SteamEngine-Sheet_12
+  - first:
+      213: -5233398762748179610
+    second: SteamEngine-Sheet_13
+  - first:
+      213: 4744756694860260381
+    second: SteamEngine-Sheet_14
+  - first:
+      213: -1080375099644537480
+    second: SteamEngine-Sheet_15
+  - first:
+      213: 6409016921292485129
+    second: SteamEngine-Sheet_16
+  - first:
+      213: 3026332616500889658
+    second: SteamEngine-Sheet_17
+  - first:
+      213: -205330772942488931
+    second: SteamEngine-Sheet_18
+  - first:
+      213: 5488297984511279594
+    second: SteamEngine-Sheet_19
+  - first:
+      213: 3661420355830583702
+    second: SteamEngine-Sheet_20
+  - first:
+      213: -67773320005396846
+    second: SteamEngine-Sheet_21
+  - first:
+      213: 6110989710495717113
+    second: SteamEngine-Sheet_22
+  - first:
+      213: -5650110483883526298
+    second: SteamEngine-Sheet_23
+  - first:
+      213: 1007136730476316555
+    second: SteamEngine-Sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146dce3313c8d140800000000000000
+      internalID: 4744756694860260381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8759289229cb101f0800000000000000
+      internalID: -1080375099644537480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023b19fee661f850800000000000000
+      internalID: 6409016921292485129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a7e49ffb4862df0800000000000000
+      internalID: -205330772942488931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919aa22a6affc230800000000000000
+      internalID: 3661420355830583702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61a28a3c89ec450800000000000000
+      internalID: 6110989710495717113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66779625376c691b0800000000000000
+      internalID: -5650110483883526298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamEngine-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 70
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b870a4435811afd00800000000000000
+      internalID: 1007136730476316555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a1671129e4809c428f45d318365be2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SteamEngine-Sheet_0: 7405730285788271029
+      SteamEngine-Sheet_1: -3839928219242720203
+      SteamEngine-Sheet_10: -6929401244150788198
+      SteamEngine-Sheet_11: -2884315316394302391
+      SteamEngine-Sheet_12: 2606612172148300234
+      SteamEngine-Sheet_13: -5233398762748179610
+      SteamEngine-Sheet_14: 4744756694860260381
+      SteamEngine-Sheet_15: -1080375099644537480
+      SteamEngine-Sheet_16: 6409016921292485129
+      SteamEngine-Sheet_17: 3026332616500889658
+      SteamEngine-Sheet_18: -205330772942488931
+      SteamEngine-Sheet_19: 5488297984511279594
+      SteamEngine-Sheet_2: 5259287154926162755
+      SteamEngine-Sheet_20: 3661420355830583702
+      SteamEngine-Sheet_21: -67773320005396846
+      SteamEngine-Sheet_22: 6110989710495717113
+      SteamEngine-Sheet_23: -5650110483883526298
+      SteamEngine-Sheet_24: 1007136730476316555
+      SteamEngine-Sheet_3: -2611612625620212230
+      SteamEngine-Sheet_4: 522124820682487212
+      SteamEngine-Sheet_5: 903155587782158029
+      SteamEngine-Sheet_6: -4406833058632394263
+      SteamEngine-Sheet_7: 604747470646011807
+      SteamEngine-Sheet_8: 374576288863065657
+      SteamEngine-Sheet_9: -299530976985663145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

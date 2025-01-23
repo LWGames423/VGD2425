@@ -271,7 +271,7 @@ Transform:
   m_GameObject: {fileID: 4676476528949763198}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 571.2, y: 67.7, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -330,7 +330,7 @@ MonoBehaviour:
   climbSpeed: 10
   cm: {fileID: 0}
   currentCharacter: 0
-  abilities: {fileID: 0}
+  abilities: {fileID: -4410762345710178526}
 --- !u!114 &3637937518858659067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -548,6 +548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pm: {fileID: 3476217559837907046}
   steel: {fileID: 2459401218607924771, guid: 4a8fbbe2772523b4f8420dcc4db5cdf8, type: 3}
+  charcoal: {fileID: 0}
 --- !u!1 &5259374943281094905
 GameObject:
   m_ObjectHideFlags: 0

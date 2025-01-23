@@ -5,6 +5,7 @@ public class Abilities : MonoBehaviour
     public PlayerManager pm;
 
     public GameObject steel;
+    public GameObject charcoal;
 
     private int character;
 
@@ -15,6 +16,7 @@ public class Abilities : MonoBehaviour
 
     private void Update()
     {
+        character = pm.currentCharacter;
         if (Input.GetKeyDown(KeyCode.Space))
         {
             switch (character)
@@ -27,7 +29,7 @@ public class Abilities : MonoBehaviour
                     pm.Respawn();
                     break;
 
-                case 1:
+                case 2:
                     GetComponent<Animator>().SetBool("ability", true);
                     break;
 
@@ -47,5 +49,12 @@ public class Abilities : MonoBehaviour
 
         GetComponent<Animator>().SetBool("ability", false);
         pm.Respawn();
+    }
+
+    public void BecomeCharcoal()
+    {
+        GameObject character = Instantiate(charcoal, transform);
+        character.transform.parent = null;
+        Destroy(gameObject);
     }
 }

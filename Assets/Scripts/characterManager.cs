@@ -8,6 +8,7 @@ public class characterManager : MonoBehaviour
     public List<Character> charList = new List<Character>();
 
     public PlayerManager pm;
+
     public struct Character{
         private string _name;
         private float _moveSpeed; 
@@ -57,7 +58,24 @@ public class characterManager : MonoBehaviour
     {
         charList.Add(new Character("Metal", 9f, 1, 9.5f, 0.95f, 0f)); // 0
         charList.Add(new Character("Water", 12f, 1, 12f, 0.95f, 0f)); // 1
+        charList.Add(new Character("Tree", 12f, 1, 12f, 0.95f, 0f)); // 2
+        charList.Add(new Character("Fire", 12f, 1, 12f, 0.95f, 0f)); // 3
+        charList.Add(new Character("Charcoal", 12f, 1, 12f, 0.95f, 0f)); // 4
+        charList.Add(new Character("Electricity", 12f, 1, 12f, 0.95f, 0f)); // 5
     }
 
-    
+    private void Update()
+    {
+        pm = GameObject.FindWithTag("Player").GetComponent<PlayerManager>();
+
+        if (charList.Count == 0)
+        {
+            charList.Add(new Character("Metal", 9f, 1, 9.5f, 0.95f, 0f)); // 0
+            charList.Add(new Character("Water", 12f, 1, 12f, 0.95f, 0f)); // 1
+            charList.Add(new Character("Tree", 12f, 1, 12f, 0.95f, 0f)); // 2
+            charList.Add(new Character("Fire", 12f, 1, 12f, 0.95f, 0f)); // 3
+            charList.Add(new Character("Charcoal", 12f, 1, 12f, 0.95f, 0f)); // 4
+            charList.Add(new Character("Electricity", 12f, 1, 12f, 0.95f, 0f)); // 5
+        }
+    }
 }

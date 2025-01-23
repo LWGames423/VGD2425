@@ -16,6 +16,7 @@ public class Kill : MonoBehaviour
 
     private void Update()
     {
+        pm = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
         currentCharacter = pm.currentCharacter;
     }
 
