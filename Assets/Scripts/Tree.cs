@@ -10,7 +10,7 @@ public class Tree : MonoBehaviour
     public void SpawnTreeTop()
     {
         tree = Instantiate(treeTop, transform.parent);
-        tree.transform.localPosition = new Vector3(-0.6f, 23.2f, 0);
+        tree.transform.localPosition = new Vector3(-0.6f, 11.8f, 0);
         tree.transform.parent = null;
         tree.transform.eulerAngles = new Vector3(0, (mirror == 180) ? 0 : 180, 0);
         tree.GetComponentInChildren<Tree>().mirror = (mirror == 180) ? 0 : 180;
@@ -32,10 +32,7 @@ public class Tree : MonoBehaviour
 
     private void Update()
     {
-        if (!pm)
-        {
-            pm = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
-        }
+        pm = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -43,6 +40,11 @@ public class Tree : MonoBehaviour
         if ((collision.CompareTag("Player") && pm.currentCharacter == 3))
         {
             Kill();
+        }
+
+        if ((collision.CompareTag("Player") && pm.currentCharacter == 1))
+        {
+            GetComponent<Animator>().SetBool("grow", true);
         }
     }
 }

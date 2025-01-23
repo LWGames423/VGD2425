@@ -13,10 +13,12 @@ public class Flamethrower : MonoBehaviour
     public List<int> killable;
 
     private SteelPlatform steel;
+    private Kill killScript;
 
     private void Awake()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
+        killScript = GetComponent<Kill>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -38,9 +40,11 @@ public class Flamethrower : MonoBehaviour
 
     private void Update()
     {
+        killScript.enabled = status;
         if (steel)
         {
             steel.heat++;
+
         }
 
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
@@ -66,10 +70,18 @@ public class Flamethrower : MonoBehaviour
         {
             if (pm.power > 0)
             {
-                interval = timer + onInterval;
-                anim.SetBool("Ignite", true);
-                status = true;
-                
+                if (status && interval + offInterval <= timer)
+                {
+                    interval = timer + offInterval;
+                    anim.SetBool("Ignite", false);
+                    status = false;
+                }
+                else if (!status && interval + onInterval <= timer)
+                {
+                    interval = timer + onInterval;
+                    anim.SetBool("Ignite", true);
+                    status = true;
+                }
             }
             else
             {
