@@ -11,7 +11,7 @@ public class Carousel : MonoBehaviour
 {
     public InputAction carouselAction;
     public InputAction carouselSet;
-    
+
     private float _actionInput;
     private float _setInput;
 
@@ -95,12 +95,9 @@ public class Carousel : MonoBehaviour
         switch (currentLevel)
         {
             case 1:
-                newEntries.Add(masterList[0]);
-                newEntries.Add(masterList[1]);
-                break;
             case 2:
             case 3:
-                for (int i = 0; i < 2*(currentLevel-1)+1; i++)
+                for (int i = 0; i < 2*(currentLevel); i++)
                 {
                     newEntries.Add(masterList[i]);
                 }
@@ -149,7 +146,7 @@ public class Carousel : MonoBehaviour
 
         if (_scrollCoroutine != null)
             StopCoroutine(_scrollCoroutine);
-            
+
         _scrollCoroutine = StartCoroutine(LerpToPos(targetHorizontalPosition));
 
         var headline = entries[currentIndex].CharName;
