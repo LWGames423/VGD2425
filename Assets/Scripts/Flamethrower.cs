@@ -55,13 +55,13 @@ public class Flamethrower : MonoBehaviour
         {
             if (status && interval + offInterval <= timer)
             {
-                interval = timer + offInterval;
+                interval = timer + onInterval;
                 anim.SetBool("Ignite", false);
                 status = false;
             }
             else if (!status && interval + onInterval <= timer)
             {
-                interval = timer + onInterval;
+                interval = timer + offInterval;
                 anim.SetBool("Ignite", true);
                 status = true;
             }
@@ -72,13 +72,13 @@ public class Flamethrower : MonoBehaviour
             {
                 if (status && interval + offInterval <= timer)
                 {
-                    interval = timer + offInterval;
+                    interval = timer + onInterval;
                     anim.SetBool("Ignite", false);
                     status = false;
                 }
                 else if (!status && interval + onInterval <= timer)
                 {
-                    interval = timer + onInterval;
+                    interval = timer + offInterval;
                     anim.SetBool("Ignite", true);
                     status = true;
                 }
