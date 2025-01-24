@@ -80,6 +80,8 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
     public int currentCharacter = 0;
     
     public Abilities abilities;
+
+    public float timer;
     
     #endregion
 
@@ -89,10 +91,11 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
     {
         currentHealth = maxHealth;
         _timeElapsed = Time.time;
+        timer = 0;
 
         cm = GameObject.FindWithTag("CharacterManager").GetComponent<characterManager>();
 
-        if (cm.charList.Count >= currentCharacter)
+        if (cm.charList.Count > currentCharacter)
         {
             moveSpeed = cm.charList[currentCharacter].getSpeed();
             jumpCount = cm.charList[currentCharacter].getJumpCount();
@@ -106,7 +109,7 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     private void Update()
     {
-
+        timer += Time.deltaTime;
         if (!pm.enabled)
         {
             pm.enabled = true;
@@ -159,6 +162,6 @@ public class PlayerManager : MonoBehaviour // manage vars. for playermovement
 
     public void Respawn()
     {
-        transform.position = pm.playerSpawn.transform.position;
+        pm.Respawn();
     }
 }

@@ -331,6 +331,7 @@ MonoBehaviour:
   cm: {fileID: 0}
   currentCharacter: 0
   abilities: {fileID: -4410762345710178526}
+  timer: 0
 --- !u!114 &3637937518858659067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -428,6 +429,14 @@ MonoBehaviour:
   waterCheck: {fileID: 5574892896246200359}
   testDashTime: 0.5
   yv: 0
+  carousel: {fileID: 0}
+  playerPrefabs:
+  - {fileID: 4676476528949763198}
+  - {fileID: 5027348476771445672, guid: 5b0e51dd7156af742b10e9405521771f, type: 3}
+  - {fileID: 5178398112012100507, guid: 9047bcfa334a9ef49b33caf6c650beaa, type: 3}
+  - {fileID: 3835971000684970922, guid: 9b83ea03486fd9149a8533e2a751ccc5, type: 3}
+  - {fileID: 1044340413840105885, guid: 02c3eea175760854facf7ea32d027b00, type: 3}
+  - {fileID: 2901881165804885899, guid: 8bec1eb624424664db0e31d3adbf0339, type: 3}
 --- !u!50 &6257552418533389905
 Rigidbody2D:
   serializedVersion: 5

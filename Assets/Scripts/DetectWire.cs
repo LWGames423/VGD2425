@@ -7,6 +7,8 @@ public class DetectWire : MonoBehaviour
 
     private PlayerManager pm;
 
+    public bool interrupted = false;
+
     private void Awake()
     {
         pm = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
@@ -31,6 +33,11 @@ public class DetectWire : MonoBehaviour
         if ((collision.CompareTag("Player") && pm.currentCharacter == 0) || collision.CompareTag("PlayerPlatform"))
         {
             connected = true;
+        }
+
+        if (collision.CompareTag("Player") && pm.currentCharacter == 6)
+        {
+            interrupted = true;
         }
     }
 

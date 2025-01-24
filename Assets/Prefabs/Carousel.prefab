@@ -1046,6 +1046,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   textBoxController: {fileID: 6336840534379037935}
+  currentIndex: 0
 --- !u!1 &8712642627501388021
 GameObject:
   m_ObjectHideFlags: 0

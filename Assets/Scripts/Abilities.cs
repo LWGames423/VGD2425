@@ -17,7 +17,7 @@ public class Abilities : MonoBehaviour
     private void Update()
     {
         character = pm.currentCharacter;
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && pm.timer > 0.5f)
         {
             switch (character)
             {
@@ -54,6 +54,7 @@ public class Abilities : MonoBehaviour
     public void BecomeCharcoal()
     {
         GameObject character = Instantiate(charcoal, transform);
+        character.transform.localPosition = Vector3.zero;
         character.transform.parent = null;
         Destroy(gameObject);
     }

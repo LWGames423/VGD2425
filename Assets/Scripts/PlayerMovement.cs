@@ -70,6 +70,9 @@ public class PlayerMovement : MonoBehaviour
 
     public float yv;
 
+    public Carousel carousel;
+    public List<GameObject> playerPrefabs;
+
     private void OnEnable()
     {
         playerMovement.Enable();
@@ -88,11 +91,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake()
     {
+        playerSpawn = GameObject.FindWithTag("Respawn");
+        carousel = FindAnyObjectByType<Carousel>();
+
         transform.position = playerSpawn.transform.position;
         _acceleration = pm.acceleration;
         _moveSpeed = pm.moveSpeed;
-
-        playerSpawn = GameObject.FindWithTag("Respawn");
     }
     
     void Start()
@@ -107,6 +111,11 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         yv = _rb.linearVelocity.y;
+
+        if (!carousel)
+        {
+            carousel = FindAnyObjectByType<Carousel>();
+        }
 
         if (!playerSpawn)
         {
@@ -489,8 +498,12 @@ public class PlayerMovement : MonoBehaviour
 
     public void Respawn()
     {
-        _rb.linearVelocity = Vector2.zero;
         transform.position = playerSpawn.transform.position;
+
+        Debug.Log("Spawning");
+        GameObject player = Instantiate(playerPrefabs[carousel.currentIndex], transform);
+        player.transform.parent = null;
+        Destroy(gameObject);
         //pm.currentHealth = pm.maxHealth;
     }
 

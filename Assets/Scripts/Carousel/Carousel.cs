@@ -34,7 +34,7 @@ public class Carousel : MonoBehaviour
     [Header("Info Setup")] [SerializeField]
     private CarouselTextBox textBoxController;
 
-    private int _currentIndex = 0;
+    public int currentIndex = 0;
     private Coroutine _scrollCoroutine;
 
     private void OnEnable()
@@ -96,6 +96,7 @@ public class Carousel : MonoBehaviour
         {
             case 1:
                 newEntries.Add(masterList[0]);
+                newEntries.Add(masterList[1]);
                 break;
             case 2:
             case 3:
@@ -108,6 +109,7 @@ public class Carousel : MonoBehaviour
                 newEntries = masterList;
                 break;
         }
+
         return newEntries;
     }
 
@@ -130,28 +132,28 @@ public class Carousel : MonoBehaviour
 
     public void ScrollToNext()
     {
-        _currentIndex = (_currentIndex + 1) % _imagesForEntries.Count;
-        ScrollTo(_currentIndex);
+        currentIndex = (currentIndex + 1) % _imagesForEntries.Count;
+        ScrollTo(currentIndex);
     }
 
     public void ScrollToPrevious()
     {
-        _currentIndex = (_currentIndex - 1 + _imagesForEntries.Count) % _imagesForEntries.Count;
-        ScrollTo(_currentIndex);
+        currentIndex = (currentIndex - 1 + _imagesForEntries.Count) % _imagesForEntries.Count;
+        ScrollTo(currentIndex);
     }
 
     private void ScrollTo(int index)
     {
-        _currentIndex = index;
-        float targetHorizontalPosition = (float)_currentIndex / (_imagesForEntries.Count - 1);
+        currentIndex = index;
+        float targetHorizontalPosition = (float)currentIndex / (_imagesForEntries.Count - 1);
 
         if (_scrollCoroutine != null)
             StopCoroutine(_scrollCoroutine);
-
+            
         _scrollCoroutine = StartCoroutine(LerpToPos(targetHorizontalPosition));
 
-        var headline = entries[_currentIndex].CharName;
-        var description = entries[_currentIndex].Description;
+        var headline = entries[currentIndex].CharName;
+        var description = entries[currentIndex].Description;
 
         textBoxController.SetText(headline, description, duration);
     }

@@ -214,7 +214,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8787613842340479038
 Transform:
   m_ObjectHideFlags: 0
@@ -224,7 +224,7 @@ Transform:
   m_GameObject: {fileID: 5027348476771445672}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 320.8, y: 16.7, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -284,6 +284,7 @@ MonoBehaviour:
   cm: {fileID: 0}
   currentCharacter: 1
   abilities: {fileID: 8540361485300260011}
+  timer: 0
 --- !u!114 &2850964171869118323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -381,6 +382,14 @@ MonoBehaviour:
   waterCheck: {fileID: 966914614949305588}
   testDashTime: 0.5
   yv: 0
+  carousel: {fileID: 0}
+  playerPrefabs:
+  - {fileID: 4676476528949763198, guid: a533c495a3bf98b47a06603b0c1f4399, type: 3}
+  - {fileID: 5027348476771445672}
+  - {fileID: 5178398112012100507, guid: 9047bcfa334a9ef49b33caf6c650beaa, type: 3}
+  - {fileID: 3835971000684970922, guid: 9b83ea03486fd9149a8533e2a751ccc5, type: 3}
+  - {fileID: 1044340413840105885, guid: 02c3eea175760854facf7ea32d027b00, type: 3}
+  - {fileID: 2901881165804885899, guid: 8bec1eb624424664db0e31d3adbf0339, type: 3}
 --- !u!50 &5840175216470113069
 Rigidbody2D:
   serializedVersion: 5

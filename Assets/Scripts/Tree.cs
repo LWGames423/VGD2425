@@ -6,11 +6,19 @@ public class Tree : MonoBehaviour
     public int mirror;
     public GameObject tree;
     private PlayerManager pm;
+    public bool isBase;
 
     public void SpawnTreeTop()
     {
         tree = Instantiate(treeTop, transform.parent);
-        tree.transform.localPosition = new Vector3(-0.6f, 11.8f, 0);
+        if (isBase)
+        {
+            tree.transform.localPosition = new Vector3(-0.6f, 11.8f, 0);
+        }
+        else
+        {
+            tree.transform.localPosition = new Vector3(-0.6f, 21.8f, 0);
+        }
         tree.transform.parent = null;
         tree.transform.eulerAngles = new Vector3(0, (mirror == 180) ? 0 : 180, 0);
         tree.GetComponentInChildren<Tree>().mirror = (mirror == 180) ? 0 : 180;

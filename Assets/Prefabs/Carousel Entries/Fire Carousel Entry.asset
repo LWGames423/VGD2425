@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6012746a051efa0a5b48a841f6faeabd, type: 3}
   m_Name: Fire Carousel Entry
   m_EditorClassIdentifier: 
-  <EntryGraphic>k__BackingField: {fileID: 5095306744237342658, guid: 272da06dd72b7415b8605b9ff28955f8, type: 3}
+  <EntryGraphic>k__BackingField: {fileID: 5170043441672792097, guid: 6d062842cda71ea4bb1a868344b6d11d, type: 3}
   <CharName>k__BackingField: Fire
   <Description>k__BackingField: A nimble wisp of fire who sparks ignition and burns
     flammable objects to clear paths

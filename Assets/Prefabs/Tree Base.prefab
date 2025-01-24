@@ -39,7 +39,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3511634810095162300}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -285,6 +285,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   treeTop: {fileID: 861914824235709072, guid: f3576d1e13170e747932b663a13af362, type: 3}
   mirror: 0
+  tree: {fileID: 0}
+  isBase: 1
 --- !u!1 &8305810868618824551
 GameObject:
   m_ObjectHideFlags: 0
@@ -324,7 +326,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8305810868618824551}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -402,7 +404,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8483982004395242143}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}

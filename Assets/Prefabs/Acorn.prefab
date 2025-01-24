@@ -468,6 +468,7 @@ MonoBehaviour:
   cm: {fileID: 0}
   currentCharacter: 2
   abilities: {fileID: 4557958021347087685}
+  timer: 0
 --- !u!114 &2607976509479145019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -565,6 +566,14 @@ MonoBehaviour:
   waterCheck: {fileID: 3464058218056657115}
   testDashTime: 0.5
   yv: 0
+  carousel: {fileID: 0}
+  playerPrefabs:
+  - {fileID: 4676476528949763198, guid: a533c495a3bf98b47a06603b0c1f4399, type: 3}
+  - {fileID: 5027348476771445672, guid: 5b0e51dd7156af742b10e9405521771f, type: 3}
+  - {fileID: 5178398112012100507}
+  - {fileID: 3835971000684970922, guid: 9b83ea03486fd9149a8533e2a751ccc5, type: 3}
+  - {fileID: 1044340413840105885, guid: 02c3eea175760854facf7ea32d027b00, type: 3}
+  - {fileID: 2901881165804885899, guid: 8bec1eb624424664db0e31d3adbf0339, type: 3}
 --- !u!50 &7169855462222397622
 Rigidbody2D:
   serializedVersion: 5
@@ -627,7 +636,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pm: {fileID: 7542300013053641555}
-  steel: {fileID: 2459401218607924771, guid: 4a8fbbe2772523b4f8420dcc4db5cdf8, type: 3}
+  steel: {fileID: 4103735815010142848, guid: ff2d07e8534793a4d9216a52ebfd530a, type: 3}
   charcoal: {fileID: 1751943201036197928, guid: 7a87347ad446ade45a25d860bfdc229a, type: 3}
 --- !u!70 &6297264989987667977
 CapsuleCollider2D:

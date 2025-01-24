@@ -48,5 +48,9 @@ public class ConnectWire : MonoBehaviour
             end.GetComponent<PowerManager>().power = pm.power;
             power = pm.power;
         }
+        else if (wireStart.interrupted)
+        {
+            pm.power = 0;
+        }
     }
 }

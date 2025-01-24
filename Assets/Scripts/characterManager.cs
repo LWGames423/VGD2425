@@ -62,6 +62,7 @@ public class characterManager : MonoBehaviour
         charList.Add(new Character("Fire", 12f, 1, 12f, 0.95f, 0f)); // 3
         charList.Add(new Character("Charcoal", 12f, 1, 12f, 0.95f, 0f)); // 4
         charList.Add(new Character("Electricity", 12f, 1, 12f, 0.95f, 0f)); // 5
+        charList.Add(new Character("Rubber", 12f, 1, 12f, 0.95f, 0f)); // 6
     }
 
     private void Update()
@@ -76,6 +77,7 @@ public class characterManager : MonoBehaviour
             charList.Add(new Character("Fire", 12f, 1, 12f, 0.95f, 0f)); // 3
             charList.Add(new Character("Charcoal", 12f, 1, 12f, 0.95f, 0f)); // 4
             charList.Add(new Character("Electricity", 12f, 1, 12f, 0.95f, 0f)); // 5
+            charList.Add(new Character("Rubber", 12f, 1, 12f, 0.95f, 0f)); // 6
         }
     }
 }
