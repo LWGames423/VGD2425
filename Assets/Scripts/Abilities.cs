@@ -25,18 +25,23 @@ public class Abilities : MonoBehaviour
                     GameObject platform = Instantiate(steel, transform);
                     platform.transform.parent = null;
                     platform.layer = 6;
-
+                    pm.canMove = false;
                     pm.Respawn();
                     break;
 
                 case 2:
                     GetComponent<Animator>().SetBool("ability", true);
+                    pm.canMove = false;
                     break;
 
                 default:
+                    pm.canMove = false;
                     pm.Respawn();
                     break;
             }
+        }
+        if (pm.canMove == false && pm.timer > .7f) {
+            pm.canMove = true;
         }
     }
 
